@@ -3,7 +3,7 @@
 - Web page URL: https://aritra1804.github.io/aritra-dataviz-portfolio/
 - This repository: https://github.com/aritra1804/aritra-dataviz-portfolio
 
-# Portfolio
+# Home
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
@@ -30,7 +30,7 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 - I hope to deepen my understanding of industry-standard tools and frameworks for data storytelling, including design principles, audience targeting, and ethical considerations in data representation.
 
 
-# Home
+# Portfolio
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
