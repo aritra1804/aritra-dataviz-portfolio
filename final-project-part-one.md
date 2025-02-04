@@ -51,7 +51,7 @@ By analyzing real-world data from **industry reports, AI benchmarks, and global 
 Initial skteches of my story:
 
 ![User emotion chart](IMG_0011.jpeg)
-<div style="min-height:400ppx" id="datawrapper-vis-M9WpL"><img src="IMG_0011.jpeg" alt="" /></noscript></div> 
+<!-- <div style="min-height:400ppx" id="datawrapper-vis-M9WpL"><img src="IMG_0011.jpeg" alt="" /></noscript></div>  -->
 
 ![Growth of AI accross years](IMG_0010.jpeg)
 <div style="min-height:400ppx" id="datawrapper-vis-M9WpL"><img src="IMG_0010.jpeg" alt="" /></noscript></div> 
