@@ -82,17 +82,21 @@ By analyzing real-world data from **industry reports, AI benchmarks, and global 
 Initial skteches of my story:
 
 1. User Emotion Chart
+
 <img src="IMG_0011.jpeg" style="width:50%; height:auto;">
 
 2. Growth of AI accross years
+
 <img src="IMG_0010.jpeg" style="width:50%; height:auto;">
 
 
 3. How is AI used?
+
 <img src="IMG_0012.jpeg" style="width:50%; height:auto;">
 
 
 4. How accurate is AI?
+
 <img src="IMG_0013.jpeg" style="width:50%; height:auto;">
 
 
