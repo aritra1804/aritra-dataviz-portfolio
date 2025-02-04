@@ -126,8 +126,27 @@ This project will be built using **interactive storytelling tools and data visua
 📌 **Final Deliverable:**  
 An **interactive, stand-alone project** combining **Shorthand storytelling with data visualizations** to communicate insights effectively.  
 
+ 
 ## References
-_List any references you used here._  
+
+- BRACAI. (n.d.). *LLM evaluation*. Retrieved February 4, 2025, from [https://www.bracai.eu/llm-eval](https://www.bracai.eu/llm-eval)  
+
+- CRFM. (n.d.). *The Stanford 2024 foundation model report*. Stanford University. Retrieved February 4, 2025, from [https://crfm.stanford.edu/report.html](https://crfm.stanford.edu/report.html)  
+
+- Qlik. (2024). *After AI: Reinventing data, insights, and action amidst the noise*. Retrieved February 4, 2025, from [https://assets.qlik.com/image/upload/v1736282773/qlik/docs/resource-library/ebooks/resource-eb-after-ai-reinventing-data-insights-and-action-amidst-the-noise-en_lna7iz.pdf](https://assets.qlik.com/image/upload/v1736282773/qlik/docs/resource-library/ebooks/resource-eb-after-ai-reinventing-data-insights-and-action-amidst-the-noise-en_lna7iz.pdf)  
+
+- Statista. (2024). *Leading math LLM tools worldwide in 2024*. Retrieved February 4, 2025, from [https://www.statista.com/statistics/1458141/leading-math-llm-tools/](https://www.statista.com/statistics/1458141/leading-math-llm-tools/)  
+
+- Tsang, S. H. (2023, March 27). *Brief review: MMLU—Measuring massive multitask language understanding*. Medium. Retrieved February 4, 2025, from [https://sh-tsang.medium.com/brief-review-mmlu-measuring-massive-multitask-language-understanding-7b18e7cbbeab](https://sh-tsang.medium.com/brief-review-mmlu-measuring-massive-multitask-language-understanding-7b18e7cbbeab)  
+
+- Vellum AI. (2024, January 15). *LLM leaderboard*. Retrieved February 4, 2025, from [https://www.vellum.ai/llm-leaderboard](https://www.vellum.ai/llm-leaderboard)  
+
+- Vellum AI. (2024, February 1). *Must-know AI facts and statistics*. Retrieved February 4, 2025, from [https://www.vellum.ai/blog/must-know-ai-facts-and-statistics](https://www.vellum.ai/blog/must-know-ai-facts-and-statistics)  
+
+- Vellum AI. (2024, February 1). *How to evaluate the quality of large language models for production use cases*. Retrieved February 4, 2025, from [https://www.vellum.ai/blog/how-to-evaluate-the-quality-of-large-language-models-for-production-use-cases](https://www.vellum.ai/blog/how-to-evaluate-the-quality-of-large-language-models-for-production-use-cases)  
+
+- Vellum AI. (2025). *State of AI 2025: 10 key trends shaping artificial intelligence*. Retrieved February 4, 2025, from [https://www.vellum.ai/state-of-ai-2025#10](https://www.vellum.ai/state-of-ai-2025#10)  
+
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
