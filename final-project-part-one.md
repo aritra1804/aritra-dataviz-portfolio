@@ -1,52 +1,67 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
+# **The Future of AI: Adoption, Challenges, and What’s Next**
 # Outline
 ## **High-Level Summary**
-AI adoption is transforming industries, but businesses, policymakers, and developers face significant challenges in deployment, evaluation, and monitoring. This project will explore **where AI adoption stands today**, **the obstacles companies face**, and **what the future holds for AI development**.
+### **The AI Adoption Story: Challenges, Growth, and the Future**  
 
-Through **data visualizations**, we will tell the story of AI’s rapid growth, infrastructure challenges, monitoring difficulties, and the evolving trend toward **agentic workflows** and **customer-facing AI applications**. By highlighting real-world adoption patterns and industry trends, this project aims to **inform business leaders, developers, and policymakers about AI’s current impact and future trajectory**.
+Imagine a world where AI is seamlessly integrated into businesses, automating tasks, making data-driven decisions, and enhancing customer experiences. The reality, however, is far more complex. While AI adoption is transforming industries at an unprecedented rate, companies, policymakers, and developers face **significant roadblocks** in deploying, evaluating, and monitoring these systems effectively.  
 
-This story will be supported by **data from AI adoption reports, benchmarks, and industry surveys**, presented through **interactive visualizations and digital storytelling tools**.
+Some businesses have fully embraced AI, integrating it into their operations to streamline workflows and improve efficiency. Others remain hesitant, struggling to define a clear AI strategy or to scale their proof-of-concept models into production. **Where does AI adoption stand today? What hurdles must be overcome before it becomes an integral part of every industry? And what does the future hold for AI development?**  
+
+This story is told through **data visualizations** that illustrate AI’s rapid expansion, the challenges in AI infrastructure, and the growing need for better monitoring and observability tools. Companies are shifting toward **agentic workflows**—AI systems that can make independent decisions—and **customer-facing AI applications** designed to improve user interactions. But as AI becomes more powerful, businesses must navigate issues like **hallucinations, ethical concerns, and security risks**.  
+
+By analyzing real-world data from **industry reports, AI benchmarks, and global adoption surveys**, this project aims to give business leaders, developers, and policymakers a clear picture of **AI’s current impact and its trajectory for the future**. Through interactive visual storytelling, we will explore the **successes, failures, and untapped potential of AI**, offering a compelling look at what’s next in the AI revolution.
+
 
 ## **Project Structure**
-### **1. Introduction: The AI Revolution (😊 Happy)**  
+### **1. Introduction: The AI Revolution**  
 - AI is no longer experimental—**25.1% of businesses have deployed AI**.  
 - But adoption is **polarized**—another **25.1% are still developing their strategy**.  
-- **Visualization:** **Stacked bar chart** showing AI adoption stages.  
+- **Visualization:** showing AI adoption stages.  
 - **Key Message:** AI adoption is growing, but not every business is ready yet.
 
-### **2. What Are Companies Building? (😐 Neutral)**  
+### **2. What Are Companies Building? **  
 - AI is mostly used for **document parsing (59.7%)**, **chatbots (51.4%)**, and **natural language analytics (43.8%)**.  
-- **Visualization:** **Bar chart** showing top AI use cases.  
+- **Visualization:** showing top AI use cases.  
 - **Key Message:** AI is primarily used for **automation and enhancing customer interactions**.
 
-### **3. Where Is AI Hosted? (😐 Neutral)**  
+### **3. Where Is AI Hosted?**  
 - **63.3% of companies use OpenAI’s cloud**, followed by **Azure (33.8%) and Anthropic (32.3%)**.  
-- **Visualization:** **Bar chart** ranking AI hosting providers.  
+- **Visualization:** ranking AI hosting providers.  
 - **Key Message:** **Cloud AI dominates**, but alternative providers are emerging.
 
-### **4. The AI Development Landscape: In-House vs. Third-Party (😐 Neutral)**  
+### **4. The AI Development Landscape: In-House vs. Third-Party**  
 - **52.2% of companies build AI internally**, while **29.9% use third-party platforms**.  
-- **Visualization:** **Pie chart** comparing AI development strategies.  
+- **Visualization:** comparing AI development strategies.  
 - **Key Message:** Companies favor **custom AI solutions**, but **third-party tools still play a role**.
 
-### **5. Challenges in AI Adoption (😢 Sad)**  
+### **5. Challenges in AI Adoption**  
 - **57.1% struggle with hallucinations and prompt engineering**.  
 - **38.3% cite a **lack of technical expertise** as a major barrier.  
-- **Visualization:** **Bar chart** ranking AI adoption challenges.  
+- **Visualization:** ranking AI adoption challenges.  
 - **Key Message:** AI faces **technical and ethical hurdles that slow adoption**.
 
-### **6. Evaluating AI: How Companies Test Models (😐 Neutral)**  
+### **6. Evaluating AI: How Companies Test Models**  
 - **75.6% still rely on manual testing** rather than automated tools.  
-- **Visualization:** **Bar chart** showing AI evaluation methods.  
+- **Visualization:** showing AI evaluation methods.  
 - **Key Message:** **Most AI testing is still manual**, highlighting the need for better evaluation frameworks.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+Initial skteches of my story:
 
-(Sketch images to be uploaded separately)
+![User emotion chart](IMG_0011.jpeg)
+<div style="min-height:400ppx" id="datawrapper-vis-M9WpL"><img src="IMG_0011.jpeg" alt="" /></noscript></div> 
+
+![Growth of AI accross years](IMG_0010.jpeg)
+<div style="min-height:400ppx" id="datawrapper-vis-M9WpL"><img src="IMG_0010.jpeg" alt="" /></noscript></div> 
+
+![AI Use Cases](IMG_0012.jpeg)
+<div style="min-height:400ppx" id="datawrapper-vis-M9WpL"><img src="IMG_0012.jpeg" alt="" /></noscript></div> 
+
+![AI Accuracy Chart](IMG_0013.jpeg)
+<div style="min-height:400ppx" id="datawrapper-vis-M9WpL"><img src="IMG_0013.jpeg" alt="" /></noscript></div> 
+
 
 # The data
 ## **Primary Data Sources**  
