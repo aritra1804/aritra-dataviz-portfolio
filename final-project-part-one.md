@@ -123,6 +123,7 @@ To ensure data-driven storytelling, this project will leverage:
 | **Statista AI Adoption Report** | [statista.com](https://www.statista.com/statistics/1458141/leading-math-llm-tools/)                     | Business AI adoption trends (**Statista, 2024**)         |
 | **AI Ethics & Model Fairness**  | [bracai.eu](https://www.bracai.eu/llm-eval)                                                             | AI bias, fairness, and efficiency evaluations (**BRACAI, n.d.**) |
 
+
 # Method and medium
 This project will be built using **interactive storytelling tools and data visualization platforms**:  
 - **Shorthand** for digital storytelling.  
