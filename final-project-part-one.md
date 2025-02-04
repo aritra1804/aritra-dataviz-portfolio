@@ -83,23 +83,18 @@ Initial skteches of my story:
 
 1. User Emotion Chart
 <img src="IMG_0011.jpeg" style="width:50%; height:auto;">
-<!-- ![User emotion chart](IMG_0011.jpeg) -->
-<!-- <div style="min-height:400ppx" id="datawrapper-vis-M9WpL"><img src="IMG_0011.jpeg" alt="" /></noscript></div>  -->
 
 2. Growth of AI accross years
 <img src="IMG_0010.jpeg" style="width:50%; height:auto;">
-<!-- ![Growth of AI accross years](IMG_0010.jpeg)
-<div style="min-height:400ppx" id="datawrapper-vis-M9WpL"><img src="IMG_0010.jpeg" alt="" /></noscript></div>  -->
+
 
 3. How is AI used?
 <img src="IMG_0012.jpeg" style="width:50%; height:auto;">
-<!-- ![AI Use Cases](IMG_0012.jpeg)
-<div style="min-height:400ppx" id="datawrapper-vis-M9WpL"><img src="IMG_0012.jpeg" alt="" /></noscript></div>  -->
+
 
 4. How accurate is AI?
 <img src="IMG_0013.jpeg" style="width:50%; height:auto;">
-<!-- ![AI Accuracy Chart](IMG_0013.jpeg)
-<div style="min-height:400ppx" id="datawrapper-vis-M9WpL"><img src="IMG_0013.jpeg" alt="" /></noscript></div>  -->
+
 
 
 # The data
