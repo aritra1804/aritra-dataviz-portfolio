@@ -114,6 +114,8 @@ To ensure data-driven storytelling, this project will leverage:
 - **Corporate Reports (e.g., Qlik's AI Business Insights)** – AI’s impact on data analysis and automation (**Qlik, 2024**).  
 
 ## **Structured Data Sources**
+## Structured Data Sources
+
 | Name                          | URL                                                                                                       | Description                                              |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | **Hugging Face LLM Leaderboard** | [huggingface.co](https://huggingface.co)                                                                 | AI model performance comparison                          |
@@ -122,6 +124,7 @@ To ensure data-driven storytelling, this project will leverage:
 | **Vellum AI Leaderboard**      | [vellum.ai](https://www.vellum.ai/llm-leaderboard)                                                      | AI model ranking based on production use cases (**Vellum AI, 2024a**) |
 | **Statista AI Adoption Report** | [statista.com](https://www.statista.com/statistics/1458141/leading-math-llm-tools/)                     | Business AI adoption trends (**Statista, 2024**)         |
 | **AI Ethics & Model Fairness**  | [bracai.eu](https://www.bracai.eu/llm-eval)                                                             | AI bias, fairness, and efficiency evaluations (**BRACAI, n.d.**) |
+
 
 
 # Method and medium
