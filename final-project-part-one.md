@@ -1,17 +1,17 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# **Is AI Inevitable for Business? Adoption, Challenges, and the Road Ahead**
-# Outline
-## **High-Level Summary**
-### **AI in Business: Growth, Challenges, and the Future.**  
+# **Is AI Inevitable for Business?**
 
-Imagine a world where AI is seamlessly integrated into businesses, automating tasks, making data-driven decisions, and enhancing customer experiences. The reality, however, is far more complex. While AI adoption is transforming industries at an unprecedented rate, companies, policymakers, and developers face **significant roadblocks** in deploying, evaluating, and monitoring these systems effectively.  
+## **Outline**
 
-Some businesses have fully embraced AI, integrating it into their operations to streamline workflows and improve efficiency. Others remain hesitant, struggling to define a clear AI strategy or to scale their proof-of-concept models into production. **Where does AI adoption stand today? What hurdles must be overcome before it becomes an integral part of every industry? And what does the future hold for AI development?**  
+### **High-Level Summary**
+AI is no longer a futuristic concept—it is a key driver of business transformation. From **automating tasks** to **enhancing customer interactions**, AI is increasingly integrated into business operations. However, **adoption remains polarized** as companies struggle with **deployment, security risks, and technical expertise gaps**.
 
-This story is told through **data visualizations** that illustrate AI’s rapid expansion, the challenges in AI infrastructure, and the growing need for better monitoring and observability tools. Companies are shifting toward **agentic workflows**—AI systems that can make independent decisions—and **customer-facing AI applications** designed to improve user interactions. But as AI becomes more powerful, businesses must navigate issues like **hallucinations, ethical concerns, and security risks**.  
+This project presents a **data-driven narrative** on AI’s **adoption, infrastructure, and challenges**, supported by **real-world industry reports and benchmarks**. Through interactive **visual storytelling**, we will explore **how businesses are using AI, where AI is hosted, who is developing AI, and what challenges remain**.
 
-By analyzing real-world data from **industry reports, AI benchmarks, and global adoption surveys**, this project aims to give business leaders, developers, and policymakers a clear picture of **AI’s current impact and its trajectory for the future**. Through interactive visual storytelling, we will explore the **successes, failures, and untapped potential of AI**, offering a compelling look at what’s next in the AI revolution.
+The goal is to provide **business leaders, policymakers, and developers** with actionable insights into **AI’s present impact and its trajectory for the future**. 
+
+---
 
 
 ## **Project Structure**
