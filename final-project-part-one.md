@@ -164,5 +164,5 @@ An **interactive, stand-alone project** combining **Shorthand storytelling with 
 
 ## AI acknowledgements
 
-For this assignment, I used ChatGPT to help refine my ideas and brainstorm narrative structures. Additionally, I utilized Grammarly to polish and enhance the clarity and quality of my writing.
+For this assignment, I used ChatGPT to help refine my ideas and brainstorm narrative structures. Additionally, I utilized Grammarly to check the grammar of my writing as well as improve it.
 
