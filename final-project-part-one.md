@@ -124,6 +124,26 @@ To ensure data-driven storytelling, this project will leverage:
 | **Statista AI Adoption Report** | [statista.com](https://www.statista.com/statistics/1458141/leading-math-llm-tools/)                     | Business AI adoption trends (**Statista, 2024**)         |
 | **AI Ethics & Model Fairness**  | [bracai.eu](https://www.bracai.eu/llm-eval)                                                             | AI bias, fairness, and efficiency evaluations (**BRACAI, n.d.**) |
 
+## How the Data will be used? 
+
+This project harnesses a range of data sources to provide a comprehensive analysis of AI trends and stakeholder impacts. For instance, data from the Vellum AI Report 2025 and HELM Benchmark (CRFM, n.d.) will be used to track the frequency and performance evolution of AI model releases over time. These sources will offer quantitative insights that highlight the rapid growth in AI development, allowing us to visualize trends and forecast regulatory needs. Similarly, insights from the Vellum AI Report 2025, Vellum AI 2024a, and Statista AI Adoption Report 2024 will help delineate the stages of AI adoption across industries. This data will be pivotal in illustrating the current state of AI deployment versus strategic development efforts, providing actionable intelligence for business leaders and policymakers.
+
+Additionally, the project will utilize data from Vellum AI 2024b and Qlik’s AI Business Insights (Qlik, 2024) to examine the primary applications of AI in industry, such as document parsing, chatbots, and natural language analytics. This will be complemented by information on where AI is hosted and developed, drawing on the Vellum AI Report 2025, HELM Benchmark, academic research (Tsang, 2023; BRACAI, n.d.), and Vellum AI 2024b. These datasets will inform visualizations that compare cloud hosting providers and development strategies, shedding light on data privacy, innovation, and security implications. Further, challenges in AI adoption, including technical issues like hallucinations and prompt engineering, will be analyzed using data from Vellum AI 2024a and additional academic studies. Finally, a synthesis of these insights from Vellum AI Report 2025, Qlik’s AI Business Insights, and Statista AI Adoption Report 2024 will form the basis of a call to action that outlines the roles of policymakers, businesses, developers, and consumers in shaping AI’s future. Below is the initial breakdown:
+
+ 1. AI Model Releases Over Time
+- **Data Sources:** Vellum AI Report 2025, HELM Benchmark (CRFM, n.d.)  
+2. The AI Adoption Surge
+- **Data Sources:** Vellum AI Report 2025, Vellum AI 2024a, Statista AI Adoption Report 2024  
+3. What Are Companies Using AI For?
+- **Data Sources:** Vellum AI 2024b, Qlik’s AI Business Insights (Qlik, 2024)
+4. Where Is AI Hosted?
+- **Data Sources:** Vellum AI Report 2025, HELM Benchmark (CRFM, n.d.)  
+5. Where Is AI Developed?
+- **Data Sources:** Vellum AI 2024b, Academic Research on AI fairness and efficiency (Tsang, 2023; BRACAI, n.d.)  
+6. Challenges in AI Adoption
+- **Data Sources:** Vellum AI 2024a, Academic Research (Tsang, 2023), HELM Benchmark (CRFM, n.d.)
+7. Call to Action: The Role of Different Stakeholders in AI’s Future
+- **Data Sources:** Vellum AI Report 2025, Qlik’s AI Business Insights (Qlik, 2024), Statista AI Adoption Report 2024
 
 
 # Method and medium
