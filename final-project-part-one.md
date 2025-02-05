@@ -112,9 +112,10 @@ To ensure data-driven storytelling, this project will leverage:
 
 ## How the Data will be used? 
 
-This project harnesses a range of data sources to provide a comprehensive analysis of AI trends and stakeholder impacts. For instance, data from the Vellum AI Report 2025 and HELM Benchmark (CRFM, n.d.) will be used to track the frequency and performance evolution of AI model releases over time. These sources will offer quantitative insights that highlight the rapid growth in AI development, allowing us to visualize trends and forecast regulatory needs. Similarly, insights from the Vellum AI Report 2025, Vellum AI 2024a, and Statista AI Adoption Report 2024 will help delineate the stages of AI adoption across industries. This data will be pivotal in illustrating the current state of AI deployment versus strategic development efforts, providing actionable intelligence for business leaders and policymakers.
+This project uses a diverse range of data sources to analyze AI trends and stakeholder impacts. Data from the Vellum AI Report 2025 and HELM Benchmark (CRFM, n.d.) will track AI model release frequency and performance evolution, enabling visualizations of growth trends and regulatory forecasts. Similarly, insights from Vellum AI Report 2025, Vellum AI 2024a, and Statista AI Adoption Report 2024 will illustrate current AI deployment stages versus strategic development, providing actionable intelligence for business leaders and policymakers.
 
-Additionally, the project will utilize data from Vellum AI 2024b and Qlik’s AI Business Insights (Qlik, 2024) to examine the primary applications of AI in industry, such as document parsing, chatbots, and natural language analytics. This will be complemented by information on where AI is hosted and developed, drawing on the Vellum AI Report 2025, HELM Benchmark, academic research (Tsang, 2023; BRACAI, n.d.), and Vellum AI 2024b. These datasets will inform visualizations that compare cloud hosting providers and development strategies, shedding light on data privacy, innovation, and security implications. Further, challenges in AI adoption, including technical issues like hallucinations and prompt engineering, will be analyzed using data from Vellum AI 2024a and additional academic studies. Finally, a synthesis of these insights from Vellum AI Report 2025, Qlik’s AI Business Insights, and Statista AI Adoption Report 2024 will form the basis of a call to action that outlines the roles of policymakers, businesses, developers, and consumers in shaping AI’s future. Below is the initial breakdown:
+Furthermore, data from Vellum AI 2024b and Qlik’s AI Business Insights (Qlik, 2024) will explore key AI applications like document parsing, chatbots, and natural language analytics. Additional sources, including the Vellum AI Report 2025, HELM Benchmark, academic research (Tsang, 2023; BRACAI, n.d.), and Vellum AI 2024b, will inform visualizations comparing cloud hosting and development strategies, highlighting implications for data privacy and innovation. Finally, challenges in AI adoption will be analyzed using Vellum AI 2024a and academic studies, with insights from Vellum AI Report 2025, Qlik’s AI Business Insights, and Statista AI Adoption Report 2024 forming a call to action for policymakers, businesses, developers, and consumers.
+
 
  1. AI Model Releases Over Time
 - **Data Sources:** Vellum AI Report 2025, HELM Benchmark (CRFM, n.d.)  
@@ -130,6 +131,9 @@ Additionally, the project will utilize data from Vellum AI 2024b and Qlik’s AI
 - **Data Sources:** Vellum AI 2024a, Academic Research (Tsang, 2023), HELM Benchmark (CRFM, n.d.)
 7. Call to Action: The Role of Different Stakeholders in AI’s Future
 - **Data Sources:** Vellum AI Report 2025, Qlik’s AI Business Insights (Qlik, 2024), Statista AI Adoption Report 2024
+
+The dataset has been created by me, with all data extracted from the sources and reports mentioned above and compiled together. As the project progresses, I will continue to extract additional data based on the visualizations and evolving needs of the project. The structured dataset is available [here](https://docs.google.com/spreadsheets/d/1LvEh062qCGMBKL1x4O_KXjH7mzgktMrNjfiMy1GRnrA/edit?usp=sharing).  
+
 
 
 # Method and medium
@@ -155,11 +159,11 @@ An **interactive, stand-alone project** combining **Shorthand storytelling with 
 
 - Tsang, S. H. (2023, March 27). *Brief review: MMLU—Measuring massive multitask language understanding*. Medium. Retrieved February 4, 2025, from [https://sh-tsang.medium.com/brief-review-mmlu-measuring-massive-multitask-language-understanding-7b18e7cbbeab](https://sh-tsang.medium.com/brief-review-mmlu-measuring-massive-multitask-language-understanding-7b18e7cbbeab)  
 
-- Vellum AI. (2024, January 15). *LLM leaderboard*. Retrieved February 4, 2025, from [https://www.vellum.ai/llm-leaderboard](https://www.vellum.ai/llm-leaderboard)  
+- Vellum AI. (2024a, January 15). *LLM leaderboard*. Retrieved February 4, 2025, from [https://www.vellum.ai/llm-leaderboard](https://www.vellum.ai/llm-leaderboard)  
 
-- Vellum AI. (2024, February 1). *Must-know AI facts and statistics*. Retrieved February 4, 2025, from [https://www.vellum.ai/blog/must-know-ai-facts-and-statistics](https://www.vellum.ai/blog/must-know-ai-facts-and-statistics)  
+- Vellum AI. (2024b, February 1). *Must-know AI facts and statistics*. Retrieved February 4, 2025, from [https://www.vellum.ai/blog/must-know-ai-facts-and-statistics](https://www.vellum.ai/blog/must-know-ai-facts-and-statistics)  
 
-- Vellum AI. (2024, February 1). *How to evaluate the quality of large language models for production use cases*. Retrieved February 4, 2025, from [https://www.vellum.ai/blog/how-to-evaluate-the-quality-of-large-language-models-for-production-use-cases](https://www.vellum.ai/blog/how-to-evaluate-the-quality-of-large-language-models-for-production-use-cases)  
+- Vellum AI. (2024c, February 1). *How to evaluate the quality of large language models for production use cases*. Retrieved February 4, 2025, from [https://www.vellum.ai/blog/how-to-evaluate-the-quality-of-large-language-models-for-production-use-cases](https://www.vellum.ai/blog/how-to-evaluate-the-quality-of-large-language-models-for-production-use-cases)  
 
 - Vellum AI. (2025). *State of AI 2025: 10 key trends shaping artificial intelligence*. Retrieved February 4, 2025, from [https://www.vellum.ai/state-of-ai-2025#10](https://www.vellum.ai/state-of-ai-2025#10)  
 
