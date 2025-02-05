@@ -124,11 +124,11 @@ For **Where Is AI Developed?**, data from **Vellum AI 2024b** and academic resea
 
 For **Challenges in AI Adoption**, I will use **Vellum AI 2024a, academic research (Tsang, 2023),** and **HELM Benchmark (CRFM, n.d.)** to highlight key barriers, such as hallucinations, prompt engineering, and technical expertise gaps.
 
-For **Call to Action: The Role of Different Stakeholders in AI’s Future**, insights from **Vellum AI Report 2025, Qlik’s AI Business Insights (Qlik, 2024),** and **Statista AI Adoption Report 2024** will outline responsibilities for policymakers, businesses, developers, and consumers in shaping AI’s future.
+For **The Role of Different Stakeholders in AI’s Future**, insights from **Vellum AI Report 2025, Qlik’s AI Business Insights (Qlik, 2024),** and **Statista AI Adoption Report 2024** will outline responsibilities for policymakers, businesses, developers, and consumers in shaping AI’s future.
 
 
 
-The dataset has been created by me, with all data extracted from the sources and reports mentioned above and compiled together. As the project progresses, I will continue to extract additional data based on the visualizations and evolving needs of the project. The structured dataset is available [here](https://docs.google.com/spreadsheets/d/1LvEh062qCGMBKL1x4O_KXjH7mzgktMrNjfiMy1GRnrA/edit?usp=sharing).  
+The dataset is being created by me, with all data extracted from the sources and reports mentioned above and compiled together. As the project progresses, I will continue to extract additional data based on the visualizations and evolving needs of the project. The structured dataset is available [here](https://docs.google.com/spreadsheets/d/1LvEh062qCGMBKL1x4O_KXjH7mzgktMrNjfiMy1GRnrA/edit?usp=sharing).  
 
 
 
