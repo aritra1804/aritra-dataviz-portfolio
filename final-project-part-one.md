@@ -177,6 +177,8 @@ An **interactive, stand-alone project** combining **Shorthand storytelling with 
 
 - Vellum AI. (2025). *State of AI 2025: 10 key trends shaping artificial intelligence*. Retrieved February 4, 2025, from [https://www.vellum.ai/state-of-ai-2025#10](https://www.vellum.ai/state-of-ai-2025#10)  
 
+- OpenAI. (2023). *ChatGPT* [Large language model]. Retrieved February 4, 2025, from [https://chat.openai.com] (https://chat.openai.com)
+
 
 ## AI acknowledgements
 
