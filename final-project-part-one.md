@@ -112,25 +112,21 @@ To ensure data-driven storytelling, this project will leverage:
 
 ## How the Data will be used? 
 
-This project uses a diverse range of data sources to analyze AI trends and stakeholder impacts. Data from the Vellum AI Report 2025 and HELM Benchmark (CRFM, n.d.) will track AI model release frequency and performance evolution, enabling visualizations of growth trends and regulatory forecasts. Similarly, insights from Vellum AI Report 2025, Vellum AI 2024a, and Statista AI Adoption Report 2024 will illustrate current AI deployment stages versus strategic development, providing actionable intelligence for business leaders and policymakers.
+For the **AI Model Releases Over Time** section, I will use data from the **Vellum AI Report 2025** and **HELM Benchmark (CRFM, n.d.)** to track AI model growth and performance trends. 
 
-Furthermore, data from Vellum AI 2024b and Qlik’s AI Business Insights (Qlik, 2024) will explore key AI applications like document parsing, chatbots, and natural language analytics. Additional sources, including the Vellum AI Report 2025, HELM Benchmark, academic research (Tsang, 2023; BRACAI, n.d.), and Vellum AI 2024b, will inform visualizations comparing cloud hosting and development strategies, highlighting implications for data privacy and innovation. Finally, challenges in AI adoption will be analyzed using Vellum AI 2024a and academic studies, with insights from Vellum AI Report 2025, Qlik’s AI Business Insights, and Statista AI Adoption Report 2024 forming a call to action for policymakers, businesses, developers, and consumers.
+For **The AI Adoption Surge**, data from **Vellum AI Report 2025, Vellum AI 2024a,** and **Statista AI Adoption Report 2024** will highlight AI deployment stages across industries, showing adoption progress and strategic developments.
+
+For **What Are Companies Using AI For?**, I will analyze data from **Vellum AI 2024b** and **Qlik’s AI Business Insights (Qlik, 2024)** to explore key AI applications like document parsing, chatbots, and analytics.
+
+For **Where Is AI Hosted?**, I will use data from the **Vellum AI Report 2025** and **HELM Benchmark (CRFM, n.d.)** to examine AI hosting trends, emphasizing cloud dominance and emerging alternatives.
+
+For **Where Is AI Developed?**, data from **Vellum AI 2024b** and academic research (**Tsang, 2023; BRACAI, n.d.**) will compare in-house AI development with third-party platforms, assessing security and efficiency trade-offs.
+
+For **Challenges in AI Adoption**, I will use **Vellum AI 2024a, academic research (Tsang, 2023),** and **HELM Benchmark (CRFM, n.d.)** to highlight key barriers, such as hallucinations, prompt engineering, and technical expertise gaps.
+
+For **Call to Action: The Role of Different Stakeholders in AI’s Future**, insights from **Vellum AI Report 2025, Qlik’s AI Business Insights (Qlik, 2024),** and **Statista AI Adoption Report 2024** will outline responsibilities for policymakers, businesses, developers, and consumers in shaping AI’s future.
 
 
- 1. AI Model Releases Over Time
-- **Data Sources:** Vellum AI Report 2025, HELM Benchmark (CRFM, n.d.)  
-2. The AI Adoption Surge
-- **Data Sources:** Vellum AI Report 2025, Vellum AI 2024a, Statista AI Adoption Report 2024  
-3. What Are Companies Using AI For?
-- **Data Sources:** Vellum AI 2024b, Qlik’s AI Business Insights (Qlik, 2024)
-4. Where Is AI Hosted?
-- **Data Sources:** Vellum AI Report 2025, HELM Benchmark (CRFM, n.d.)  
-5. Where Is AI Developed?
-- **Data Sources:** Vellum AI 2024b, Academic Research on AI fairness and efficiency (Tsang, 2023; BRACAI, n.d.)  
-6. Challenges in AI Adoption
-- **Data Sources:** Vellum AI 2024a, Academic Research (Tsang, 2023), HELM Benchmark (CRFM, n.d.)
-7. Call to Action: The Role of Different Stakeholders in AI’s Future
-- **Data Sources:** Vellum AI Report 2025, Qlik’s AI Business Insights (Qlik, 2024), Statista AI Adoption Report 2024
 
 The dataset has been created by me, with all data extracted from the sources and reports mentioned above and compiled together. As the project progresses, I will continue to extract additional data based on the visualizations and evolving needs of the project. The structured dataset is available [here](https://docs.google.com/spreadsheets/d/1LvEh062qCGMBKL1x4O_KXjH7mzgktMrNjfiMy1GRnrA/edit?usp=sharing).  
 
