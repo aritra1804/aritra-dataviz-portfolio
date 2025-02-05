@@ -26,8 +26,8 @@ The goal is to provide **business leaders, policymakers, and developers** with a
 
 ### **2. The AI Adoption Surge**
 
-- AI is no longer experimental—**25.1% of businesses have deployed AI** (**Vellum AI, 2025**).
-- But adoption is **polarized**—another **25.1% are still developing their strategy** (**Vellum AI, 2024a**).
+- AI is no longer experimental—25.1% of businesses have deployed AI (**Vellum AI, 2025**).
+- But adoption is polarized**—another 25.1% are still developing their strategy (**Vellum AI, 2024a**).
 - **Visualization:** showing AI adoption stages.
 - **Key Message:** AI adoption is growing, but not every business is ready yet.
 
@@ -35,7 +35,7 @@ The goal is to provide **business leaders, policymakers, and developers** with a
 
 ### **3. What Are Companies Using AI For?**
 
-- AI is mostly used for **document parsing (59.7%)**, **chatbots (51.4%)**, and **natural language analytics (43.8%)** (**Vellum AI, 2024b**).
+- AI is mostly used for document parsing (59.7%), chatbots (51.4%), and natural language analytics (43.8%) (**Vellum AI, 2024b**).
 - **Visualization:** showing top AI use cases.
 - **Key Message:** AI is primarily used for **automation and enhancing customer interactions**.
 
@@ -43,7 +43,7 @@ The goal is to provide **business leaders, policymakers, and developers** with a
 
 ### **4. Where Is AI Hosted?**
 
-- **63.3% of companies use OpenAI’s cloud**, followed by **Azure (33.8%) and Anthropic (32.3%)** (**Vellum AI, 2025**).
+- 63.3% of companies use OpenAI’s cloud, followed by Azure (33.8%) and Anthropic (32.3%) (**Vellum AI, 2025**).
 - **Visualization:** ranking AI hosting providers.
 - **Key Message:** **Cloud AI dominates**, but alternative providers are emerging.
 
@@ -51,7 +51,7 @@ The goal is to provide **business leaders, policymakers, and developers** with a
 
 ### **5. Where Is AI Developed?**
 
-- **52.2% of companies build AI internally**, while **29.9% use third-party platforms** (**Vellum AI, 2024b**).
+- 52.2% of companies build AI internally, while 29.9% use third-party platforms (**Vellum AI, 2024b**).
 - **Visualization:** comparing AI development strategies.
 - **Key Message:** Companies favor **custom AI solutions**, but **third-party tools still play a role**.
 
@@ -59,8 +59,8 @@ The goal is to provide **business leaders, policymakers, and developers** with a
 
 ### **6. Challenges in AI Adoption**
 
-- **57.1% struggle with hallucinations and prompt engineering** (**Vellum AI, 2024a**).
-- **38.3% cite a **lack of technical expertise** as a major barrier (**Tsang, 2023**).
+- 57.1% struggle with hallucinations and prompt engineering (**Vellum AI, 2024a**).
+- 38.3% cite a lack of technical expertise as a major barrier (**Tsang, 2023**).
 - **Visualization:** ranking AI adoption challenges.
 - **Key Message:** AI faces **technical and ethical hurdles that slow adoption**.
 
@@ -68,10 +68,10 @@ The goal is to provide **business leaders, policymakers, and developers** with a
 
 ### **7. Call to Action: The Role of Different Stakeholders in AI’s Future**
 
-- **Policymakers** can develop AI governance frameworks that ensure fairness and transparency (**Vellum AI, 2025**).
-- **Businesses** can invest in AI training and ethical AI deployment (**Qlik, 2024**).
-- **Developers** can focus on improving AI reliability, fairness, and accessibility.
-- **Consumers** can advocate for AI that aligns with their values and ethical considerations (**Statista, 2024**).
+- Policymakers can develop AI governance frameworks that ensure fairness and transparency (**Vellum AI, 2025**).
+- Businesses can invest in AI training and ethical AI deployment (**Qlik, 2024**).
+- Developers can focus on improving AI reliability, fairness, and accessibility.
+- Consumers can advocate for AI that aligns with their values and ethical considerations (**Statista, 2024**).
 - **Visualization:** Final overview of AI stakeholders' responsibilities.
 - **Key Message:** AI’s success depends on collaboration between policymakers, businesses, developers, and society.
 
