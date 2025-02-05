@@ -179,5 +179,6 @@ An **interactive, stand-alone project** combining **Shorthand storytelling with 
 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+For this assignment, I used ChatGPT to help refine my ideas and brainstorm narrative structures. Additionally, I utilized Grammarly to polish and enhance the clarity and quality of my writing.
 
