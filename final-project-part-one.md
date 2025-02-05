@@ -5,7 +5,7 @@
 ## **Outline**
 
 ### **High-Level Summary**
-AI is no longer a futuristic concept—it is a key driver of business transformation. From **automating tasks** to **enhancing customer interactions**, AI is increasingly integrated into business operations. However, **adoption remains polarized** as companies struggle with **deployment, security risks, and technical expertise gaps**.
+AI is no longer a futuristic concept, rather it is a key driver of business transformation. From **automating tasks** to **enhancing customer interactions**, AI is increasingly integrated into business operations. However, **adoption remains polarized** as companies struggle with **deployment, security risks, and technical expertise gaps**.
 
 This project presents a **data-driven narrative** on AI’s **adoption, infrastructure, and challenges**, supported by **real-world industry reports and benchmarks**. Through interactive **visual storytelling**, we will explore **how businesses are using AI, where AI is hosted, who is developing AI, and what challenges remain**.
 
@@ -28,42 +28,27 @@ The goal is to provide **business leaders, policymakers, and developers** with a
 
 - AI is no longer experimental—25.1% of businesses have deployed AI (**Vellum AI, 2025**).
 - But adoption is polarized**—another 25.1% are still developing their strategy (**Vellum AI, 2024a**).
-- **Visualization:** showing AI adoption stages.
-- **Key Message:** AI adoption is growing, but not every business is ready yet.
-
 **Summary:** This section explores how AI is being adopted across industries. **Policymakers** can shape regulations, **businesses** can assess their competitive stance (**Statista, 2024**), and **developers** can find areas where AI expertise is in demand.
 
 ### **3. What Are Companies Using AI For?**
 
 - AI is mostly used for document parsing (59.7%), chatbots (51.4%), and natural language analytics (43.8%) (**Vellum AI, 2024b**).
-- **Visualization:** showing top AI use cases.
-- **Key Message:** AI is primarily used for **automation and enhancing customer interactions**.
-
 **Summary:** AI is streamlining operations and improving efficiency (**Qlik, 2024**). **Tech professionals** can explore high-demand AI applications, **businesses** can evaluate AI’s operational impact, and **consumers** can understand how AI influences their experiences.
 
 ### **4. Where Is AI Hosted?**
 
 - 63.3% of companies use OpenAI’s cloud, followed by Azure (33.8%) and Anthropic (32.3%) (**Vellum AI, 2025**).
-- **Visualization:** ranking AI hosting providers.
-- **Key Message:** **Cloud AI dominates**, but alternative providers are emerging.
-
 **Summary:** AI hosting has major implications for **data privacy, security, and sovereignty** (**CRFM, n.d.**). **Policymakers** can evaluate risks, **businesses** can assess vendor lock-in concerns, and **developers** can explore new hosting architectures.
 
 ### **5. Where Is AI Developed?**
 
 - 52.2% of companies build AI internally, while 29.9% use third-party platforms (**Vellum AI, 2024b**).
-- **Visualization:** comparing AI development strategies.
-- **Key Message:** Companies favor **custom AI solutions**, but **third-party tools still play a role**.
-
 **Summary:** AI development approaches affect innovation speed and security. **Policymakers** can oversee data protection in AI models (**BRACAI, n.d.**), **businesses** can determine whether in-house development is feasible, and **developers** can assess career opportunities in AI engineering.
 
 ### **6. Challenges in AI Adoption**
 
 - 57.1% struggle with hallucinations and prompt engineering (**Vellum AI, 2024a**).
 - 38.3% cite a lack of technical expertise as a major barrier (**Tsang, 2023**).
-- **Visualization:** ranking AI adoption challenges.
-- **Key Message:** AI faces **technical and ethical hurdles that slow adoption**.
-
 **Summary:** This section identifies key obstacles to AI scaling. **Policymakers** can explore solutions for responsible AI governance, **business leaders** can strategize for smoother AI integration, and **developers** can address limitations like bias and hallucinations (**CRFM, n.d.**).
 
 ### **7. Call to Action: The Role of Different Stakeholders in AI’s Future**
@@ -72,9 +57,6 @@ The goal is to provide **business leaders, policymakers, and developers** with a
 - Businesses can invest in AI training and ethical AI deployment (**Qlik, 2024**).
 - Developers can focus on improving AI reliability, fairness, and accessibility.
 - Consumers can advocate for AI that aligns with their values and ethical considerations (**Statista, 2024**).
-- **Visualization:** Final overview of AI stakeholders' responsibilities.
-- **Key Message:** AI’s success depends on collaboration between policymakers, businesses, developers, and society.
-
 **Summary:** This section provides a roadmap for various stakeholders to shape AI’s future responsibly. **Policymakers** can enforce accountability, **businesses** can ensure fair AI usage, **developers** can enhance AI's trustworthiness, and **users** can engage critically with AI systems.
 
 
