@@ -114,7 +114,6 @@ To ensure data-driven storytelling, this project will leverage:
 - **Corporate Reports (e.g., Qlik's AI Business Insights)** – AI’s impact on data analysis and automation (**Qlik, 2024**).  
 
 ## **Structured Data Sources**
-## Structured Data Sources
 
 | Name                          | URL                                                                                                       | Description                                              |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
