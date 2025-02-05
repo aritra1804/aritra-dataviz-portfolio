@@ -19,8 +19,6 @@ The goal is to provide **business leaders, policymakers, and developers** with a
 ### **1. AI Model Releases Over Time**
 
 - AI development is accelerating, with an increasing number of models being released each year (**Vellum AI, 2025**).
-- **Visualization:** showing AI model release trends.
-- **Key Message:** AI is advancing rapidly, with more sophisticated models being introduced regularly.
 
 **Summary:** This section highlights the exponential growth of AI model development. **Policymakers** can track AI’s regulatory needs (**CRFM, n.d.**), **business leaders** can anticipate upcoming innovations, and **developers** can identify trends in model evolution.
 
@@ -28,27 +26,32 @@ The goal is to provide **business leaders, policymakers, and developers** with a
 
 - AI is no longer experimental—25.1% of businesses have deployed AI (**Vellum AI, 2025**).
 - But adoption is polarized**—another 25.1% are still developing their strategy (**Vellum AI, 2024a**).
+
 **Summary:** This section explores how AI is being adopted across industries. **Policymakers** can shape regulations, **businesses** can assess their competitive stance (**Statista, 2024**), and **developers** can find areas where AI expertise is in demand.
 
 ### **3. What Are Companies Using AI For?**
 
 - AI is mostly used for document parsing (59.7%), chatbots (51.4%), and natural language analytics (43.8%) (**Vellum AI, 2024b**).
+
 **Summary:** AI is streamlining operations and improving efficiency (**Qlik, 2024**). **Tech professionals** can explore high-demand AI applications, **businesses** can evaluate AI’s operational impact, and **consumers** can understand how AI influences their experiences.
 
 ### **4. Where Is AI Hosted?**
 
 - 63.3% of companies use OpenAI’s cloud, followed by Azure (33.8%) and Anthropic (32.3%) (**Vellum AI, 2025**).
+
 **Summary:** AI hosting has major implications for **data privacy, security, and sovereignty** (**CRFM, n.d.**). **Policymakers** can evaluate risks, **businesses** can assess vendor lock-in concerns, and **developers** can explore new hosting architectures.
 
 ### **5. Where Is AI Developed?**
 
 - 52.2% of companies build AI internally, while 29.9% use third-party platforms (**Vellum AI, 2024b**).
+
 **Summary:** AI development approaches affect innovation speed and security. **Policymakers** can oversee data protection in AI models (**BRACAI, n.d.**), **businesses** can determine whether in-house development is feasible, and **developers** can assess career opportunities in AI engineering.
 
 ### **6. Challenges in AI Adoption**
 
 - 57.1% struggle with hallucinations and prompt engineering (**Vellum AI, 2024a**).
 - 38.3% cite a lack of technical expertise as a major barrier (**Tsang, 2023**).
+
 **Summary:** This section identifies key obstacles to AI scaling. **Policymakers** can explore solutions for responsible AI governance, **business leaders** can strategize for smoother AI integration, and **developers** can address limitations like bias and hallucinations (**CRFM, n.d.**).
 
 ### **7. Call to Action: The Role of Different Stakeholders in AI’s Future**
@@ -57,6 +60,7 @@ The goal is to provide **business leaders, policymakers, and developers** with a
 - Businesses can invest in AI training and ethical AI deployment (**Qlik, 2024**).
 - Developers can focus on improving AI reliability, fairness, and accessibility.
 - Consumers can advocate for AI that aligns with their values and ethical considerations (**Statista, 2024**).
+
 **Summary:** This section provides a roadmap for various stakeholders to shape AI’s future responsibly. **Policymakers** can enforce accountability, **businesses** can ensure fair AI usage, **developers** can enhance AI's trustworthiness, and **users** can engage critically with AI systems.
 
 
