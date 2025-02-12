@@ -1,59 +1,84 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Title
-Text here...
+Redesigning Data Visualization: Median Age at First Marriage vs. Population Density
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+## Step One: The Visualization
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+### **Original Visualization**
+[Include a screenshot of the original scatter plot or link to the source]
 
-## Step one: the visualization
+The original visualization was a scatter plot showing the relationship between **median age at first marriage** and **population density per square mile** across U.S. states. I selected this visualization because it aimed to uncover a potential correlation between urbanization and marriage trends, which is a valuable insight for policymakers, researchers, and sociologists. However, the scatter plot had **several weaknesses** that needed improvement.
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+## Step Two: The Critique
 
-## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Using **Stephen Few's Data Visualization Effectiveness Profile**, I evaluated the original scatter plot and identified several strengths and weaknesses:
 
-## Step three: Sketch a solution
+### **Key Takeaways from the Critique**
 
-## Step four: Test the solution
+✅ **What Worked Well:**
+- **Appropriate Visualization Type** – A scatter plot is suitable for showing relationships between continuous variables.
+- **Truthfulness** – Data was accurately represented without manipulation.
+- **Adequate Axis Labeling** – Both axes clearly defined the variables.
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+❌ **What Didn’t Work Well:**
+- **No Trend Line** – Hard to interpret correlation without a guiding line.
+- **Poor Label Readability** – Yellow background on axis labels made text difficult to read.
+- **Lack of Context** – No geographic context (e.g., state-wise identification).
+- **No Call to Action** – The graph didn't explain why this data mattered.
+- **Missing Title** – The audience had no immediate understanding of what the visualization was about.
 
-Questions to ask (modify these for your own interviews): 
+Based on these insights, I planned to **redesign the visualization** to provide better clarity, engagement, and usability.
 
-- Can you tell me what you think this is?
+## Step Three: Sketch a Solution
 
-- Can you describe to me what this is telling you?
+### **Redesign Plan:**
+1. **Switch to a Bubble Chart** – This allows for **state-wise differentiation** while still showing correlations.
+2. **Add a Trend Line** – To highlight the general pattern in the data.
+3. **Use Clearer Labels** – Remove the yellow background for better contrast.
+4. **Include State Names** – Annotate key outliers to give context.
+5. **Provide a Title & Explanation** – To immediately inform viewers of key insights.
 
-- Is there anything you find surprising or confusing?
+[Insert hand-drawn or digital sketch of the redesigned visualization]
 
-- Who do you think is the intended audience for this?
+## Step Four: Test the Solution
 
-- Is there anything you would change or do differently?
+### **User Feedback & Testing**
 
-Results: 
+I conducted **two user interviews** to gather feedback on the redesigned sketch. The goal was to assess if the new visualization was easier to understand and more engaging.
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
+#### **Interview Questions & Results**
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Can you tell me what you think this is? | "A relationship between marriage age and population density." | "Looks like a trend comparison between states on marriage age." |
+| Can you describe to me what this is telling you? | "Higher density states have older marriage ages." | "There’s a pattern but needs a trend line to confirm." |
+| Is there anything you find surprising or confusing? | "Some states are missing annotations." | "Could use color coding to group regions." |
+| Who do you think is the intended audience for this? | "Researchers and policymakers." | "Could also be useful for journalists reporting on social trends." |
+| Is there anything you would change or do differently? | "More labels for outliers." | "Consider making bubbles bigger for high-density states." |
 
-Synthesis: 
+#### **Synthesis of Feedback**
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+- **Trend Line is Essential** – Viewers wanted a clearer indication of correlation.
+- **State Annotations Should be Expanded** – More outliers should be labeled.
+- **Color Coding by Region** – Some users suggested grouping states into regional colors.
+- **Bubble Sizes Should be More Noticeable** – Scaling needed refinement for clarity.
 
-## Step five: build the solution
+## Step Five: Build the Solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+### **Final Visualization:**
 
-## References
-_List any references you used here._
+[Insert final bubble chart visualization]
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+### **Key Changes in the Final Design:**
+1. **Bubble Chart Instead of Scatter Plot** – To **distinguish states clearly** while keeping correlation insights.
+2. **Trend Line Added** – To confirm the positive correlation.
+3. **Readable Labels** – Removed yellow background, improved contrast.
+4. **Annotated Key States** – Highlighted outliers for better interpretation.
+5. **Color Gradient for Better Differentiation** – Made bubbles visually distinct.
 
+### **Final Thoughts on the Process**
+This redesign process **significantly improved** the readability and usability of the visualization. The **Stephen Few critique method was useful for technical evaluation**, but it lacked a storytelling component, which became clear during user interviews. The redesigned visualization now serves **a broader audience** by making insights more apparent and engaging.
+
+## AI Acknowledgements
+AI assistance was used to structure the critique, generate code for visualization, and refine user feedback synthesis. The final narrative was manually edited and tailored based on insights from testing and critique.
