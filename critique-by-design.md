@@ -1,12 +1,12 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Love Can Wait: How Women’s First Marriage Age Has Increased from 2006 to 2019
-Redesigning Data Visualization: Median Age at First Marriage vs. Population Density
+Redesigning Data Visualization: Median Age at First Marriage
 
 ## Step One: The Visualization
 
 ### **Original Visualization**
-[Include a screenshot of the original scatter plot or link to the source]
+![Original Chart](average-age-of-women-at-first-marriage-by-state-vs-state-v0-4fp808kfvgk91.webp)
 
 The original visualization was a scatter plot showing the relationship between **median age at first marriage** and **population density per square mile** across U.S. states. I selected this visualization because it aimed to uncover a potential correlation between urbanization and marriage trends, which is a valuable insight for policymakers, researchers, and sociologists. However, the scatter plot had **several weaknesses** that needed improvement.
 
