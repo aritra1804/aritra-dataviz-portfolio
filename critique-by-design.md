@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
+# Love Can Wait: How Women’s First Marriage Age Has Increased from 2006 to 2019
 Redesigning Data Visualization: Median Age at First Marriage vs. Population Density
 
 ## Step One: The Visualization
@@ -13,6 +13,18 @@ The original visualization was a scatter plot showing the relationship between *
 ## Step Two: The Critique
 
 Using **Stephen Few's Data Visualization Effectiveness Profile**, I evaluated the original scatter plot and identified several strengths and weaknesses:
+
+### **Effectiveness Scale Ratings**
+
+| Criteria            | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---------------------|---|---|---|---|---|---|---|---|---|----|
+| **Usefulness**      |   |   |   |   |   |   | ✅ |   |   |    |
+| **Completeness**    |   |   |   |   |   | ✅ |   |   |   |    |
+| **Perceptibility**  |   |   |   |   | ✅ |   |   |   |   |    |
+| **Truthfulness**    |   |   |   |   |   |   |   | ✅ |   |    |
+| **Intuitiveness**   |   |   |   |   | ✅ |   |   |   |   |    |
+| **Aesthetics**      |   |   |   | ✅ |   |   |   |   |   |    |
+| **Engagement**      |   |   |   | ✅ |   |   |   |   |   |    |
 
 ### **Key Takeaways from the Critique**
 
@@ -79,6 +91,11 @@ I conducted **two user interviews** to gather feedback on the redesigned sketch.
 
 ### **Final Thoughts on the Process**
 This redesign process **significantly improved** the readability and usability of the visualization. The **Stephen Few critique method was useful for technical evaluation**, but it lacked a storytelling component, which became clear during user interviews. The redesigned visualization now serves **a broader audience** by making insights more apparent and engaging.
+
+## References
+- Data source: [Insert link or citation]
+- Original visualization: [Insert source]
+- Few, S. (2017). *Data Visualization Effectiveness Profile.* Perceptual Edge.
 
 ## AI Acknowledgements
 AI assistance was used to structure the critique, generate code for visualization, and refine user feedback synthesis. The final narrative was manually edited and tailored based on insights from testing and critique.
