@@ -45,13 +45,22 @@ Based on these insights, I planned to **redesign the visualization** to provide 
 ## Step Three: Sketch a Solution
 
 ### **Redesign Plan:**
-1. **Switch to a Bubble Chart** – This allows for **state-wise differentiation** while still showing correlations.
-2. **Add a Trend Line** – To highlight the general pattern in the data.
-3. **Use Clearer Labels** – Remove the yellow background for better contrast.
-4. **Include State Names** – Annotate key outliers to give context.
-5. **Provide a Title & Explanation** – To immediately inform viewers of key insights.
+I created **two types of sketches** for the redesign:
 
-[Insert hand-drawn or digital sketch of the redesigned visualization]
+1. **Choropleth Maps** – Two separate maps displaying **median ages across states**, one for **2006–2010** and another for **2015–2019**, to clearly show state-wise distribution.
+2. **Arrow Plots** – A visual representation of how the median age changed between the two time periods across states, using arrows to indicate the shift in values.
+
+These two approaches allow for **both geographical comparison and a clear visual representation of changes over time.** 
+
+By using:
+- **Choropleth maps**, viewers can easily compare **regional differences** in first marriage age for women across two different time periods.
+- **Arrow plots**, they can quickly identify states where marriage age has increased or decreased, with the **length and direction of arrows** signifying the degree of change.
+
+This redesign approach enhances both **clarity and engagement**, ensuring that policymakers, researchers, and the general public can grasp the key insights **at a glance**.
+
+
+![Option 1](Marriage(2006).png) ![](Marriage(2015).png)
+
 
 ## Step Four: Test the Solution
 
