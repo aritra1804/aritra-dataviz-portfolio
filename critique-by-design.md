@@ -79,7 +79,7 @@ I conducted **three user interviews** to gather feedback on the redesigned sketc
 
 #### **Interview Questions & Results**
 
-| Question | Interview 1 | Interview 2 | Interview 3 |
+| Question | Interview 1 (Student, BIDA) | Interview 2 (Student, MSPPM) | Interview 3 (Student, MAM) |
 |----------|-------------|-------------|-------------|
 | What does Sketch 1 tell you? | "Shows geographical differences in marriage age." | "State-wise breakdown of first marriage ages." | "Easy to see which states have younger or older averages." |
 | Is there anything you find confusing or unclear in Sketch 1? | "No immediate comparison between time periods." | "Would be better if differences were highlighted more." | "Some states have very similar colors, making differences harder to notice." |
