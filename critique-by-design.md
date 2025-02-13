@@ -75,24 +75,28 @@ This redesign approach enhances both **clarity and engagement**, ensuring that p
 
 ### **User Feedback & Testing**
 
-I conducted **two user interviews** to gather feedback on the redesigned sketch. The goal was to assess if the new visualization was easier to understand and more engaging.
+I conducted **three user interviews** to gather feedback on the redesigned sketches. The goal was to assess if the new visualization was easier to understand and more engaging.
 
 #### **Interview Questions & Results**
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-| Can you tell me what you think this is? | "A relationship between marriage age and population density." | "Looks like a trend comparison between states on marriage age." |
-| Can you describe to me what this is telling you? | "Higher density states have older marriage ages." | "There’s a pattern but needs a trend line to confirm." |
-| Is there anything you find surprising or confusing? | "Some states are missing annotations." | "Could use color coding to group regions." |
-| Who do you think is the intended audience for this? | "Researchers and policymakers." | "Could also be useful for journalists reporting on social trends." |
-| Is there anything you would change or do differently? | "More labels for outliers." | "Consider making bubbles bigger for high-density states." |
+| Question | Interview 1 | Interview 2 | Interview 3 |
+|----------|-------------|-------------|-------------|
+| What does Sketch 1 tell you? | "Shows geographical differences in marriage age." | "State-wise breakdown of first marriage ages." | "Easy to see which states have younger or older averages." |
+| Is there anything you find confusing or unclear in Sketch 1? | "No immediate comparison between time periods." | "Would be better if differences were highlighted more." | "Some states have very similar colors, making differences harder to notice." |
+| What does Sketch 2 tell you? | "Shows how marriage age has changed over time for each state." | "Clear comparison between time periods." | "Gives a strong visual representation of increasing trends." |
+| Is there anything you find confusing or unclear in Sketch 2? | "Arrows make it look a little complex." | "Might be hard to compare for states with smaller changes." | "Spacing could be improved for readability." |
+| Out of the two sketches, which one do you prefer? | "Sketch 2 (Arrow Plot) – It better represents change over time." | "Sketch 2 – Easier to understand the trend." | "Sketch 1 – Prefer geographical context over numeric change." |
+| Is there anything you would change in either of the sketches? | "Add labels for states with significant changes." | "Consider color coding regions or trends for clarity." | "Remove arrows in Sketch 2 and use dots instead to make a range plot." |
 
 #### **Synthesis of Feedback**
 
-- **Trend Line is Essential** – Viewers wanted a clearer indication of correlation.
-- **State Annotations Should be Expanded** – More outliers should be labeled.
-- **Color Coding by Region** – Some users suggested grouping states into regional colors.
-- **Bubble Sizes Should be More Noticeable** – Scaling needed refinement for clarity.
+- **2 out of 3 users preferred the Arrow Plot (Sketch 2)** for effectively showing the change in marriage age over time.
+- **1 user preferred the Choropleth Map (Sketch 1)**, finding it easier for geographical comparisons.
+- **All participants agreed** that if the goal is to showcase **differences in values**, the **Arrow Plot (or an alternative range-based design) is better**.
+- **One user suggested removing arrows** and instead using **only dots** to create a **range plot**, making it easier to interpret.
+- **Additional clarity needed in Sketch 1** – Some states had very close values, making differences harder to spot.
+
+This feedback led to the final decision of converting **Sketch 2 into a range plot by replacing arrows with dots** for a **cleaner and more interpretable visualization** while keeping **Sketch 1 as a supplementary geographical reference**.
 
 ## Step Five: Build the Solution
 
