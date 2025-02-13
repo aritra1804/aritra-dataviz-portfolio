@@ -6,7 +6,7 @@ Redesigning Data Visualization: Median Age at First Marriage
 ## Step One: The Visualization
 
 ### **Original Visualization**
-Original Chart Link - [https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/]
+Original Chart Link - [Original Chart](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)
 ![Original Chart](average-age-of-women-at-first-marriage-by-state-vs-state-v0-4fp808kfvgk91.webp)
 
 The original visualization was a scatter plot showing the relationship between **median age at first marriage** and **population density per square mile** across U.S. states. I selected this visualization because it aimed to uncover a potential correlation between urbanization and marriage trends, which is a valuable insight for policymakers, researchers, and sociologists. However, the scatter plot had **several weaknesses** that needed improvement.
@@ -129,8 +129,8 @@ This feedback led to the final decision of converting **Sketch 2 into a range pl
 This redesign process **significantly improved the clarity and usability** of the visualization. The **Stephen Few critique method** was helpful in evaluating the technical aspects, but **user interviews highlighted the need for storytelling** to make the data more engaging and intuitive. By switching to a **range plot**, the final design presents a **clear, state-by-state comparison** of how marriage age has increased, making insights **more apparent and accessible** for a broader audience.
 
 ## References
-- **Data source**: [](https://data.world/makeovermonday/2022w36)
-- **Original visualization**: [](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)
+- **Data source**: [Data source](https://data.world/makeovermonday/2022w36)
+- **Original visualization**: [Original Chart](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)
 - **Few, S. (2017). Data Visualization Effectiveness Profile. Perceptual Edge.**
 
 ## AI Acknowledgements
