@@ -96,7 +96,17 @@ I conducted **three user interviews** to gather feedback on the redesigned sketc
 - **One user suggested removing arrows** and instead using **only dots** to create a **range plot**, making it easier to interpret.
 - **Additional clarity needed in Sketch 1** – Some states had very close values, making differences harder to spot.
 
+### **My Thoughts After the Interviews**
+
+I initially liked the map for visualization, but as pointed out by the interviews, it didn't showcase the difference across time periods effectively. This got me thinking about the story I want to tell with this data. I decided to focus on how the median age for women's first marriage increased over time and wanted to highlight that trend.
+
+This led me to consider how to move from two separate maps to a single visualization, as having two maps made it harder for the reader to analyze and compare different states. Additionally, some states had similar values, leading to similar colors, which made it challenging to distinguish trends.
+
+Given this, I decided to stick to the arrow plot, as it better conveyed the trend across states. I also took into account the feedback from one of the interview participants who suggested removing the arrows and instead using dots to create a range plot. This adjustment made the visualization clearer and easier to understand, aligning better with my goal of effectively showcasing the increase in marriage age over time.
+
 This feedback led to the final decision of converting **Sketch 2 into a range plot by replacing arrows with dots** for a **cleaner and more interpretable visualization** while keeping **Sketch 1 as a supplementary geographical reference**.
+
+
 
 ## Step Five: Build the Solution
 
