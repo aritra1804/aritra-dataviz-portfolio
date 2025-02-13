@@ -58,11 +58,13 @@ By using:
 
 This redesign approach enhances both **clarity and engagement**, ensuring that policymakers, researchers, and the general public can grasp the key insights **at a glance**.
 
+**Sketch 1**
 
 ![Option 1](Marriage(2006).png) ![](Marriage(2015).png)
 
 
 
+**Sketch 1**
 
 ![Option 2](option2.jpg)
 
