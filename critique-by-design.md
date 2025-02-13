@@ -64,7 +64,9 @@ This redesign approach enhances both **clarity and engagement**, ensuring that p
 
 
 
-**Sketch 1**
+
+
+**Sketch 2**
 
 ![Option 2](option2.jpg)
 
