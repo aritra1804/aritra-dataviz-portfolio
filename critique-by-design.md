@@ -129,8 +129,8 @@ This feedback led to the final decision of converting **Sketch 2 into a range pl
 This redesign process **significantly improved the clarity and usability** of the visualization. The **Stephen Few critique method** was helpful in evaluating the technical aspects, but **user interviews highlighted the need for storytelling** to make the data more engaging and intuitive. By switching to a **range plot**, the final design presents a **clear, state-by-state comparison** of how marriage age has increased, making insights **more apparent and accessible** for a broader audience.
 
 ## References
-- **Data source**: [https://data.world/makeovermonday/2022w36]
-- **Original visualization**: [https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/]
+- **Data source**: [](https://data.world/makeovermonday/2022w36)
+- **Original visualization**: [](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)
 - **Few, S. (2017). Data Visualization Effectiveness Profile. Perceptual Edge.**
 
 ## AI Acknowledgements
