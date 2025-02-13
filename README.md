@@ -42,7 +42,7 @@ You can keep this section for stuff from in-class demos or your other work, or r
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+This project focuses on redesigning a data visualization that originally used a scatter plot to explore the relationship between median age at first marriage and population density per square mile across U.S. states. While the original visualization aimed to identify correlations, it failed to effectively showcase trends over time, making it difficult for viewers to interpret historical changes in marriage age.
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 

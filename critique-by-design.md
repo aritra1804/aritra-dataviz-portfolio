@@ -1,9 +1,9 @@
 | [home page](https://aritra1804.github.io/aritra-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Love Can Wait: How Women’s First Marriage Age Has Increased from 2006 to 2019
-Redesigning Data Visualization: Median Age at First Marriage
+# Love Can Wait: How Women’s First Marriage Age Has Increased from 2006 to 2019❤️
+Redesigning Data Visualization: Median Age at First Marriage for Women
 
-## Step One: The Visualization
+## Step One: The Visualization📊
 
 ### **Original Visualization**
 Original Chart Link - [Original Chart](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)
@@ -15,7 +15,7 @@ I chose this visualization because while it attempted to explore an interesting 
 
 By redesigning this visualization, I aimed to create a more intuitive and engaging representation that would allow viewers to easily compare how marriage age has increased across different states over time.
 
-## Step Two: The Critique
+## Step Two: The Critique🧑🏻‍🏫
 
 Using **Stephen Few's Data Visualization Effectiveness Profile**, I evaluated the original scatter plot and identified several strengths and weaknesses:
 
@@ -47,7 +47,7 @@ Using **Stephen Few's Data Visualization Effectiveness Profile**, I evaluated th
 
 Based on these insights, I planned to **redesign the visualization** to provide better clarity, engagement, and usability.
 
-## Step Three: Sketch a Solution
+## Step Three: Sketch a Solution✍🏻
 
 ### **Redesign Plan:**
 I created **two types of sketches** for the redesign:
@@ -76,7 +76,7 @@ This redesign approach enhances both **clarity and engagement**, ensuring that p
 ![Option 2](option2.jpg)
 
 
-## Step Four: Test the Solution
+## Step Four: Test the Solution🧪
 
 ### **User Feedback & Testing**
 
@@ -113,7 +113,7 @@ This feedback led to the final decision of converting **Sketch 2 into a range pl
 
 
 
-## Step Five: Build the Solution
+## Step Five: Build the Solution🏗️
 
 ### **Final Visualization:**
 
@@ -121,7 +121,7 @@ This feedback led to the final decision of converting **Sketch 2 into a range pl
 </script>
 
 
-## Key Changes in the Final Design
+## Key Changes in the Final Design🔑
 
 1. **Range Plot Instead of Scatter Plot** – Transitioned from a scatter plot to a **range plot**, making it easier to visualize how the median age at first marriage has changed over time for each state.
 2. **Single Chart Instead of Two Maps** – Moved away from using two separate maps for each time period, consolidating the comparison into a single, easy-to-interpret visualization.
@@ -129,14 +129,14 @@ This feedback led to the final decision of converting **Sketch 2 into a range pl
 4. **Gray Bars for Visualizing Change** – Added **gray connecting bars** to clearly show the shift in median age between 2006–2010 and 2015–2019.
 5. **Annotated Key States & Contextual Notes** – Highlighted significant trends and ensured key takeaways were visible for easier interpretation.
 
-## Final Thoughts on the Process
+## Final Thoughts on the Process🤔
 This redesign process **significantly improved the clarity and usability** of the visualization. The **Stephen Few critique method** was helpful in evaluating the technical aspects, but **user interviews highlighted the need for storytelling** to make the data more engaging and intuitive. By switching to a **range plot**, the final design presents a **clear, state-by-state comparison** of how marriage age has increased, making insights **more apparent and accessible** for a broader audience.
 
-## References
+## References📚
 - **Data source**: [Data source](https://data.world/makeovermonday/2022w36)
 - **Original visualization**: [Original Chart](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)
 - **Few, S. (2017). Data Visualization Effectiveness Profile. Perceptual Edge.**
 
-## AI Acknowledgements
+## AI Acknowledgements🤖
 
 For this assignment, I used ChatGPT to help refine my ideas and brainstorm chart ideas for data across different time frames. Additionally, I utilized Grammarly to check the grammar of my writing as well as improve it.
