@@ -109,8 +109,13 @@ This feedback led to the final decision of converting **Sketch 2 into a range pl
 
 
 ## Step Five: Build the Solution
+
+### **Final Visualization:**
+
 <iframe title="How Women’s First Marriage Age Has Changed: A State-by-State Comparison" aria-label="Range Plot" id="datawrapper-chart-4NuWn" src="https://datawrapper.dwcdn.net/4NuWn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1109" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
+
+<div style="min-height:1109px" id="datawrapper-vis-4NuWn"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/4NuWn/embed.js" charset="utf-8" data-target="#datawrapper-vis-4NuWn"></script><noscript><img src="https://datawrapper.dwcdn.net/4NuWn/full.png" alt="This visualization compares the median age of women at first marriage across U.S. states, highlighting how it has changed between 2006–2010 (blue dots) and 2015–2019 (green dots)." /></noscript></div>
 
 ### **Final Visualization:**
 
