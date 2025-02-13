@@ -6,7 +6,7 @@ Redesigning Data Visualization: Median Age at First Marriage
 ## Step One: The Visualization
 
 ### **Original Visualization**
-Original Chart Link - https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/
+Original Chart Link - [https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/]
 ![Original Chart](average-age-of-women-at-first-marriage-by-state-vs-state-v0-4fp808kfvgk91.webp)
 
 The original visualization was a scatter plot showing the relationship between **median age at first marriage** and **population density per square mile** across U.S. states. I selected this visualization because it aimed to uncover a potential correlation between urbanization and marriage trends, which is a valuable insight for policymakers, researchers, and sociologists. However, the scatter plot had **several weaknesses** that needed improvement.
@@ -117,20 +117,21 @@ This feedback led to the final decision of converting **Sketch 2 into a range pl
 </script>
 
 
-### **Key Changes in the Final Design:**
-1. **Bubble Chart Instead of Scatter Plot** – To **distinguish states clearly** while keeping correlation insights.
-2. **Trend Line Added** – To confirm the positive correlation.
-3. **Readable Labels** – Removed yellow background, improved contrast.
-4. **Annotated Key States** – Highlighted outliers for better interpretation.
-5. **Color Gradient for Better Differentiation** – Made bubbles visually distinct.
+## Key Changes in the Final Design
 
-### **Final Thoughts on the Process**
-This redesign process **significantly improved** the readability and usability of the visualization. The **Stephen Few critique method was useful for technical evaluation**, but it lacked a storytelling component, which became clear during user interviews. The redesigned visualization now serves **a broader audience** by making insights more apparent and engaging.
+1. **Range Plot Instead of Scatter Plot** – Transitioned from a scatter plot to a **range plot**, making it easier to visualize how the median age at first marriage has changed over time for each state.
+2. **Single Chart Instead of Two Maps** – Moved away from using two separate maps for each time period, consolidating the comparison into a single, easy-to-interpret visualization.
+3. **Readable Labels & Improved Contrast** – Removed unnecessary background colors, increased contrast, and refined the layout for better readability.
+4. **Gray Bars for Visualizing Change** – Added **gray connecting bars** to clearly show the shift in median age between 2006–2010 and 2015–2019.
+5. **Annotated Key States & Contextual Notes** – Highlighted significant trends and ensured key takeaways were visible for easier interpretation.
+
+## Final Thoughts on the Process
+This redesign process **significantly improved the clarity and usability** of the visualization. The **Stephen Few critique method** was helpful in evaluating the technical aspects, but **user interviews highlighted the need for storytelling** to make the data more engaging and intuitive. By switching to a **range plot**, the final design presents a **clear, state-by-state comparison** of how marriage age has increased, making insights **more apparent and accessible** for a broader audience.
 
 ## References
-- Data source: [Insert link or citation]
-- Original visualization: [Insert source]
-- Few, S. (2017). *Data Visualization Effectiveness Profile.* Perceptual Edge.
+- **Data source**: [https://data.world/makeovermonday/2022w36]
+- **Original visualization**: [https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/]
+- **Few, S. (2017). Data Visualization Effectiveness Profile. Perceptual Edge.**
 
 ## AI Acknowledgements
 AI assistance was used to structure the critique, generate code for visualization, and refine user feedback synthesis. The final narrative was manually edited and tailored based on insights from testing and critique.
