@@ -6,6 +6,7 @@ Redesigning Data Visualization: Median Age at First Marriage
 ## Step One: The Visualization
 
 ### **Original Visualization**
+Original Chart Link - https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/
 ![Original Chart](average-age-of-women-at-first-marriage-by-state-vs-state-v0-4fp808kfvgk91.webp)
 
 The original visualization was a scatter plot showing the relationship between **median age at first marriage** and **population density per square mile** across U.S. states. I selected this visualization because it aimed to uncover a potential correlation between urbanization and marriage trends, which is a valuable insight for policymakers, researchers, and sociologists. However, the scatter plot had **several weaknesses** that needed improvement.
