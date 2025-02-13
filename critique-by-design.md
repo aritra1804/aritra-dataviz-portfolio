@@ -135,6 +135,7 @@ This redesign process **significantly improved the clarity and usability** of th
 ## References📚
 - **Data source**: [Data source](https://data.world/makeovermonday/2022w36)
 - **Original visualization**: [Original Chart](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)
+- **Viz Review Video**: [Video](https://www.youtube.com/watch?v=vAHJUln1rdk&t=698s)
 - **Few, S. (2017). Data Visualization Effectiveness Profile. Perceptual Edge.**
 
 ## AI Acknowledgements🤖
