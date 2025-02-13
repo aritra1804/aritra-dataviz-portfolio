@@ -62,6 +62,11 @@ This redesign approach enhances both **clarity and engagement**, ensuring that p
 ![Option 1](Marriage(2006).png) ![](Marriage(2015).png)
 
 
+
+
+![Option 2](option2.jpg)
+
+
 ## Step Four: Test the Solution
 
 ### **User Feedback & Testing**
