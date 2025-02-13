@@ -11,6 +11,10 @@ Original Chart Link - [Original Chart](https://www.reddit.com/r/dataisbeautiful/
 
 The original visualization was a scatter plot showing the relationship between **median age at first marriage** and **population density per square mile** across U.S. states. I selected this visualization because it aimed to uncover a potential correlation between urbanization and marriage trends, which is a valuable insight for policymakers, researchers, and sociologists. However, the scatter plot had **several weaknesses** that needed improvement.
 
+I chose this visualization because while it attempted to explore an interesting correlation, it failed to clearly convey how marriage age trends evolved over time. The scatter plot was not the best approach for tracking historical change, and it lacked state-specific insights that would have been valuable for policymakers and researchers. Additionally, the visualization did not effectively highlight regional differences, making it difficult to compare trends across states like New York, California, and Massachusetts, which saw significant increases, versus Alabama and Arkansas, which had smaller shifts.
+
+By redesigning this visualization, I aimed to create a more intuitive and engaging representation that would allow viewers to easily compare how marriage age has increased across different states over time.
+
 ## Step Two: The Critique
 
 Using **Stephen Few's Data Visualization Effectiveness Profile**, I evaluated the original scatter plot and identified several strengths and weaknesses:
@@ -134,4 +138,5 @@ This redesign process **significantly improved the clarity and usability** of th
 - **Few, S. (2017). Data Visualization Effectiveness Profile. Perceptual Edge.**
 
 ## AI Acknowledgements
-AI assistance was used to structure the critique, generate code for visualization, and refine user feedback synthesis. The final narrative was manually edited and tailored based on insights from testing and critique.
+
+For this assignment, I used ChatGPT to help refine my ideas and brainstorm chart ideas for data across different time frames. Additionally, I utilized Grammarly to check the grammar of my writing as well as improve it.
