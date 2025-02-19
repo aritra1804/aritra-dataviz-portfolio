@@ -5,6 +5,8 @@
 
 Text here!
 
+<script src="https://carnegiemellon.shorthandstories.com/the-hidden-cost-of-ai-is-ai-really-an-energy-monster/embed.js"></script>
+
 # User research 
 
 ## Target audience
