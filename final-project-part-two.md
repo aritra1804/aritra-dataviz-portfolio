@@ -38,6 +38,11 @@ The target audience includes:
 
 ## Interview Findings
 
+### Thoughts After Interview
+After receiving feedback from my professor and TA, I shifted the narrative from AI adoption for business to AI's energy consumption. This helped make the story more focused and relevant to energy concerns. Additionally, two interviewees mentioned that the story was too data-heavy and structured like a report, lacking a compelling narrative. Based on this, I reworked the storytelling approach to create a clearer structure and integrate data more organically into the story instead of presenting it in a rigid report-like format.
+
+## Interview Findings
+
 ### Participants
 1. Graduate Student in Computer Science (20s)
 2. Policy Analyst in Sustainability (30s)
@@ -45,7 +50,7 @@ The target audience includes:
 
 | Questions | Interview 1 | Interview 2 | Interview 3 |
 |-----------|------------|------------|------------|
-| Was the story easy to follow? | "Mostly, but Chapter 3 felt data-heavy." | "Yes, but local grid issues need emphasis." | "Some charts were overwhelming at first." |
+| Was the story easy to follow? | "Mostly, but Chapter 3 felt data-heavy." | "Yes, but local grid issues need emphasis. Also, it felt too much like a report." | "Some charts were overwhelming at first. The story felt a bit too data-centric." | "Yes, but local grid issues need emphasis." | "Some charts were overwhelming at first." |
 | Did charts help clarify the points? | "Yes, especially the pie charts." | "The energy growth charts were insightful." | "The pie charts were easiest to understand." |
 | Did scroll effects enhance experience? | "Yes, but some transitions felt too fast." | "I liked the animations for data growth." | "A bit too much motion at times." |
 | Did the story feel balanced? | "Mostly balanced, could mention AI positives." | "Good, but some bias towards AI risks." | "Felt neutral overall." |
