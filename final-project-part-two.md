@@ -1,6 +1,5 @@
 | [home page](https://aritra1804.github.io/aritra-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-```md
 # Wireframes / Storyboards
 
 Using the sketches developed, I further refined the story outline and created high-fidelity draft data visualizations for critical elements of my narrative. The Shorthand story draft is accessible here:
@@ -90,7 +89,6 @@ I used OpenAI's ChatGPT to:
 - Assist in summarizing user research findings.
 
 All visualizations were created using **Datawrapper**, and the storytelling was built using **Shorthand**.
-```
 
 
 
