@@ -20,12 +20,13 @@ The target audience primarily includes the **general public**. After receiving f
 My secondary audience includes **industry leaders** and **policy makers** who play a key role in planning for energy efficiency and sustainability.
 
 ### Approach to Identifying Participants
-- Reached out to classmates in different academic programs to get diverse perspectives.
-- Included individuals with varying levels of technical expertise to ensure the story is universally accessible.
 
-- Reached out to classmates in tech programs.
-- Interviewed individuals from sustainability groups.
-- Included non-technical users to ensure broad accessibility.
+I conducted **in-class interviews** with classmates from different academic programs to gather diverse perspectives and more structured feedback. These interviews focused on understanding user engagement, clarity of narrative, and the effectiveness of data visualizations.
+
+Additionally, I sought **general feedback outside of class** at Heinz College by asking peers simple and direct questions. For example, I asked which visualizations seemed better suited for specific data — such as choosing between a **choropleth map** and a **spike map** — to gauge intuitive preferences and improve the visual storytelling.
+
+This combination of structured interviews and informal feedback helped ensure that the story would be **universally accessible** to individuals with varying levels of technical expertise.
+
 
 ## Interview Script
 
