@@ -44,13 +44,6 @@ My secondary audience includes **industry leaders** and **policy makers** who pl
 | Positive feedback | "What is one thing you liked the most about the story?" |
 | Constructive feedback | "What is one thing you would change to improve the story?" |
 
-## Interview Findings
-
-### Thoughts After Interview
-After receiving feedback from my professor and TA, I shifted the narrative from AI adoption for business to AI's energy consumption. This helped make the story more focused and relevant to energy concerns. Additionally, two interviewees mentioned that the story was too data-heavy and structured like a report, lacking a compelling narrative. Based on this, I reworked the storytelling approach to create a clearer structure and integrate data more organically into the story instead of presenting it in a rigid report-like format.
-
-Users also expressed a preference for a layout where text and visualizations are presented side by side. They found the current Shorthand draft too data-heavy and suggested making the narrative more engaging and less overwhelming. In Part III, I will focus on implementing a side-by-side layout, reducing data density, and enhancing the narrative flow to create a more balanced and engaging user experience.
-After receiving feedback from my professor and TA, I shifted the narrative from AI adoption for business to AI's energy consumption. This helped make the story more focused and relevant to energy concerns. Additionally, two interviewees mentioned that the story was too data-heavy and structured like a report, lacking a compelling narrative. Based on this, I reworked the storytelling approach to create a clearer structure and integrate data more organically into the story instead of presenting it in a rigid report-like format.
 
 ## Interview Findings
 
@@ -60,26 +53,64 @@ After receiving feedback from my professor and TA, I shifted the narrative from 
 3. Student (MISM)
 4. Student (MEM)
 
-| Questions | Interview 1 | Interview 2 | Interview 3 |
-|-----------|------------|------------|------------|
-| Was the story easy to follow? | "Mostly, but Chapter 3 felt data-heavy." | "Yes, but local grid issues need emphasis. Also, it felt too much like a report." | "Some charts were overwhelming at first. The story felt a bit too data-centric." | "Yes, but local grid issues need emphasis." | "Some charts were overwhelming at first." |
-| Did charts help clarify the points? | "Yes, especially the pie charts." | "The energy growth charts were insightful." | "The pie charts were easiest to understand." |
-| Did scroll effects enhance experience? | "Yes, but some transitions felt too fast." | "I liked the animations for data growth." | "A bit too much motion at times." |
-| Did the story feel balanced? | "Mostly balanced, could mention AI positives." | "Good, but some bias towards AI risks." | "Felt neutral overall." |
-| What stood out most? | "The map showing local grid strain." | "The efficiency graph in Chapter 5." | "The comparison of AI vs. refrigeration." |
+| Questions | Interview 1 | Interview 2 | Interview 3 | Interview 4 |
+|-----------|-------------|-------------|-------------|-------------|
+| Was the story easy to follow? | "Mostly, but Chapter 3 felt data-heavy." | "Yes, but local grid issues need emphasis. Also, it felt too much like a report." | "Some charts were overwhelming at first. The story felt a bit too data-centric." | "Yes, but background images made some text hard to read." |
+| Did charts help clarify the points? | "Yes, especially the pie charts." | "The energy growth charts were insightful." | "The pie charts were easiest to understand." | "The stacked bar charts were very helpful." |
+| Did scroll effects enhance experience? | "Yes, but some transitions felt too fast." | "I liked the animations for data growth." | "A bit too much motion at times." | "The scroll effect in Chapter 3 was my favorite." |
+| Did the story feel balanced? | "Mostly balanced, could mention AI positives." | "Good, but some bias towards AI risks." | "Felt neutral overall." | "Balanced, but background images were distracting." |
+| What stood out most? | "The map showing local grid strain." | "The efficiency graph in Chapter 5." | "The comparison of AI vs. refrigeration." | "The scroll-driven visualization in Chapter 3." |
+
+### Additional Feedback
+- One interviewee highlighted that the **scroll effect in Chapter 3** was particularly engaging.
+- Another interviewee suggested **reducing the background image brightness** to improve text readability.
+
+### Feedback from TA
+
+After completing the interviews, I sought additional feedback from my TA to refine the project further. The TA provided the following suggestions:
+
+- **Simplify Text Formatting:** The TA noted that the text in my Shorthand draft was **too heavy for the eyes**. She recommended reformatting the text to improve readability and create a more engaging experience.
+  
+- **Highlight Data More Effectively:** The TA suggested finding an **easier and simpler way** to highlight key data points within the narrative. This includes using visual cues like bold text, callouts, or cleaner layouts to make important information stand out.
+
+- **Include Proper Citations:** The TA emphasized the importance of adding **citations for all data visualizations** used in the story. Proper attribution will improve the credibility and academic rigor of the project.
+
+These insights will guide my improvements in **Part III**, focusing on enhancing readability, highlighting data more effectively, and ensuring proper citations throughout the Shorthand story.
+
+### Thoughts After Interview
+After receiving feedback from my professor, TA, and interviewees, I made several important changes to the project. Initially focused on AI adoption for business, the story shifted towards **AI’s energy consumption** to create a more focused and relevant narrative around energy concerns.
+
+Interviewees highlighted that the story was **too data-heavy** and structured like a report, lacking a compelling narrative. To address this, I reworked the storytelling approach to integrate data more organically and create a clearer structure.
+
+Additional feedback pointed out that the **Shorthand draft was visually overwhelming**, with dense blocks of text and complex visualizations. Users suggested a **side-by-side layout** for text and visualizations to enhance readability and engagement.
+
+From the TA’s feedback, I learned that the **text formatting needed simplification** to be easier on the eyes. She also emphasized the need for a **simpler method to highlight key data points** and advised adding **citations** for all data visualizations to improve credibility.
+
+For **Part III**, I will focus on:
+- Implementing a **side-by-side layout** for text and visualizations.
+- Simplifying text formatting for better readability.
+- Highlighting key data points more effectively.
+- Reducing data density and breaking down complex sections.
+- Adding **citations** to all data visualizations.
+
+
 
 ## Identified Changes for Part III
 
 | Research Synthesis | Anticipated Changes for Part III |
 |--------------------|----------------------------------|
-| Chapter 3 felt data-heavy | Break down charts into smaller sections; add more narrative around visuals. |
-| Local grid issues need more emphasis | Expand Chapter 4 with more examples and user stories of local energy strain. |
-| Some scroll effects felt too fast/overwhelming | Slow down transitions; add subtle cues to guide the reader through interactions. |
-| Positive impacts of AI underrepresented | Add a section in Chapter 5 highlighting AI's role in optimizing energy use. |
-| Complexity of certain charts | Simplify labels and legends; add short explanations near complex visuals. |
+| Story felt too data-heavy and report-like | Integrate data into the narrative more smoothly; focus on storytelling over pure data presentation. |
+| Text formatting was visually overwhelming | Simplify text blocks, use  less bullet points, more callouts, and more whitespace to improve readability. |
+| Users prefer side-by-side layout | Implement a side-by-side layout in Shorthand to pair text with visuals for better engagement. |
+| Scroll effects felt too fast/overwhelming | Slow down transitions and provide visual cues to guide the reader through interactions. |
+| Complex charts were hard to interpret | Simplify labels, legends, and break down complex charts into smaller, more digestible parts. |
+| Need for clearer data highlights | Use callouts, bold text, and cleaner layouts to emphasize key data points. |
+| Missing citations on visualizations | Add proper citations for all data visualizations to improve credibility. |
+
+
 
 ### Final Thoughts
-The feedback highlighted the importance of balancing data with narrative, ensuring the story remains engaging without overwhelming the reader. For Part III, I will focus on refining interactions and improving clarity in data-heavy sections.
+The feedback from the TA and interviewees emphasized the importance of balancing narrative and data while maintaining visual clarity. For **Part III**, I will focus on creating a more engaging, user-friendly experience by simplifying the text, restructuring the layout, and making the data easier to digest. Implementing the suggested changes will ensure that the story remains accessible to a broad audience while maintaining depth and credibility.
 
 # Moodboards / Personas
 
