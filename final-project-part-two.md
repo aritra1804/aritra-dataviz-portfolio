@@ -2,7 +2,7 @@
 
 # Thoughts After Part I
 
-After the initial round of feedback from my professor and TA, I made a significant shift in the focus of my story. Originally centered on AI adoption for businesses, the feedback highlighted the lack of narrative structure and the overly data-centric approach, making it feel more like a report. Based on this, I pivoted the story towards AI's energy consumption—a topic that offers clearer storytelling potential and aligns better with data-driven narratives.
+After the initial round of feedback from my professor and TA, I made a significant shift in the focus of my story. Originally centered on AI adoption for businesses, the feedback highlighted the lack of narrative structure and the overly data-centric approach, making it feel more like a report. Based on this, I pivoted the story towards AI's energy consumption, a topic that offers clearer storytelling potential and aligns better with data-driven narratives.
 
 # Wireframes / Storyboards
 
