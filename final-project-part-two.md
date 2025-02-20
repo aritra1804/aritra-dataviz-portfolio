@@ -23,7 +23,7 @@ My secondary audience includes **industry leaders** and **policy makers** who pl
 
 I conducted **in-class interviews** with classmates from different academic programs to gather diverse perspectives and more structured feedback. These interviews focused on understanding user engagement, clarity of narrative, and the effectiveness of data visualizations.
 
-Additionally, I sought **general feedback outside of class** at Heinz College by asking peers simple and direct questions. For example, I asked which visualizations seemed better suited for specific data — such as choosing between a **choropleth map** and a **spike map** — to gauge intuitive preferences and improve the visual storytelling.
+Additionally, I sought **general feedback outside of class** at Heinz College by asking peers simple and direct questions. For example, I asked which visualizations seemed better suited for specific data, such as choosing between a **choropleth map** and a **spike map** — to gauge intuitive preferences and improve the visual storytelling.
 
 This combination of structured interviews and informal feedback helped ensure that the story would be **universally accessible** to individuals with varying levels of technical expertise.
 
