@@ -15,12 +15,14 @@ The story uses a scroll-driven structure with interactive visualizations, guidin
 # User Research
 
 ## Target Audience
-The target audience includes:
-- **Tech Enthusiasts & Developers**: Individuals interested in AI, data centers, and sustainability.
-- **Policy Makers & Industry Leaders**: Stakeholders making decisions on energy use and AI infrastructure.
-- **General Public**: Readers curious about AI's impact on energy and the environment.
+The target audience primarily includes the **general public**. After receiving feedback from Part I, I chose to explain the story in very simple terms to make it accessible to everyone. With tools like ChatGPT and Google AI being widely used, I wanted to raise awareness about the energy implications of AI through this story.
+
+My secondary audience includes **industry leaders** and **policy makers** who play a key role in planning for energy efficiency and sustainability.
 
 ### Approach to Identifying Participants
+- Reached out to classmates in different academic programs to get diverse perspectives.
+- Included individuals with varying levels of technical expertise to ensure the story is universally accessible.
+
 - Reached out to classmates in tech programs.
 - Interviewed individuals from sustainability groups.
 - Included non-technical users to ensure broad accessibility.
@@ -28,17 +30,19 @@ The target audience includes:
 ## Interview Script
 
 ### Research Goals
-- Assess clarity of data visualizations.
-- Understand user engagement with scroll-driven storytelling.
-- Identify confusing or overwhelming data sections.
+- Understand the main message users take away from the story.
+- Assess clarity and impact of data visualizations.
+- Identify confusing or overwhelming sections.
+- Highlight elements that resonate positively.
+- Gather suggestions for improvements.
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Clarity of narrative | "Was the story easy to follow? Were any parts confusing?" |
-| Effectiveness of data visualizations | "Did the charts help clarify the points? Were any hard to interpret?" |
-| User engagement with interactions | "Did the scroll effects and interactive visuals enhance your experience?" |
-| Perceived bias or persuasion | "Did the story feel balanced or biased?" |
-| Emotional and cognitive impact | "What part of the story stood out the most? Why?" |
+| Comprehension | "What do you understand by this story?" |
+| Effectiveness of data visualizations | "How did the data visualizations help (or not help) you understand the topic?" |
+| Clarity | "Were there any sections of the story that were confusing?" |
+| Positive feedback | "What is one thing you liked the most about the story?" |
+| Constructive feedback | "What is one thing you would change to improve the story?" |
 
 ## Interview Findings
 
@@ -51,9 +55,10 @@ After receiving feedback from my professor and TA, I shifted the narrative from 
 ## Interview Findings
 
 ### Participants
-1. Graduate Student in Computer Science (20s)
-2. Policy Analyst in Sustainability (30s)
-3. Non-technical Reader, Marketing Professional (40s)
+1. Student (MAM)
+2. Student (BIDA)
+3. Student (MISM)
+4. Student (MEM)
 
 | Questions | Interview 1 | Interview 2 | Interview 3 |
 |-----------|------------|------------|------------|
