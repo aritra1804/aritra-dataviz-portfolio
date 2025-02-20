@@ -114,25 +114,29 @@ The feedback from the TA and interviewees emphasized the importance of balancing
 # Moodboards / Personas
 
 ### Moodboards
-- **Color Palette:** Cool blues and greys to reflect energy themes, with accent colors for highlights.
-- **Typography:** Clean sans-serif fonts for readability, with bold headers.
-- **Visual Style:** Minimalistic with a focus on data clarity.
+- **Color Palette:** Cool blues and greys to reflect energy themes, with accent colors for highlights. I chose a **shade of white** for text and a **shade of orange** for highlighting important information.
+- **Typography:** I used **Poppins** as the primary font, which is the default in Shorthand, for its readability and clean look.
+- **Visual Style:** A **blue color palette** was selected for visualizations, with the entire story presented in **dark mode** to align with the slide themes. This choice creates contrast, making the text and data visualizations stand out.
+- **Storytelling Approach:** The goal was to create a **simple, eye-friendly story** that effectively highlights important data from the charts while maintaining a clean, minimalist aesthetic.
 
-### Personas
-1. **Tech Enthusiast Tim** – 25, enjoys learning about AI advancements and sustainability.
-2. **Policy Maker Priya** – 35, focuses on energy policies and infrastructure.
-3. **Curious Cathy** – 45, non-technical but interested in how AI impacts daily life.
 
 # References
-- de Vries, A. (2023). *The growing energy footprint of artificial intelligence*. Joule.
-- International Energy Agency (IEA) — *World Energy Outlook 2024*
-- U.S. Energy Information Administration (EIA, 2023) — *Annual Energy Outlook*
+
+- de Vries, A. (2023). *The growing energy footprint of artificial intelligence*. Joule. https://doi.org/10.1016/j.joule.2023.01.001
+
+- International Energy Agency. (2024). *World Energy Outlook 2024*. IEA. https://www.iea.org/reports/world-energy-outlook-2024
+
+- U.S. Energy Information Administration. (2023). *Annual Energy Outlook 2023*. EIA. https://www.eia.gov/outlooks/aeo/
+
+- Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics*, 3645–3650. https://doi.org/10.18653/v1/P19-1355
+
+- Jones, N. (2018). How to stop data centres from gobbling up the world’s electricity. *Nature*, *561*(7722), 163–166. https://doi.org/10.1038/d41586-018-06610-y
+
+- Masanet, E., Shehabi, A., Lei, N., Smith, S., & Koomey, J. (2020). Recalibrating global data center energy-use estimates. *Science*, *367*(6481), 984–986. https://doi.org/10.1126/science.aba3758
+
 
 # AI Acknowledgements
-I used OpenAI's ChatGPT to:
-- Draft the initial wireframes and story outline.
-- Refine text sections and narrative flow.
-- Generate ideas for user research questions.
-- Assist in summarizing user research findings.
+For this assignment, I used **ChatGPT** to help refine my ideas and brainstorm narrative structures. I also used ChatGPT to create initial sketches of my data, which I then refined using **Datawrapper**. Additionally, I utilized **Grammarly** to check the grammar of my writing and improve sentence structure and clarity throughout the document.
 
-All visualizations were created using **Datawrapper**, and the storytelling was built using **Shorthand**.
+All visualizations were finalized using **Datawrapper**, and the storytelling was built using **Shorthand**.
+
