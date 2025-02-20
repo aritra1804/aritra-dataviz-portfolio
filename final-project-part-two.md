@@ -1,5 +1,9 @@
 | [home page](https://aritra1804.github.io/aritra-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Thoughts After Part I
+
+After the initial round of feedback from my professor and TA, I made a significant shift in the focus of my story. Originally centered on AI adoption for businesses, the feedback highlighted the lack of narrative structure and the overly data-centric approach, making it feel more like a report. Based on this, I pivoted the story towards AI's energy consumption—a topic that offers clearer storytelling potential and aligns better with data-driven narratives.
+
 # Wireframes / Storyboards
 
 Using the sketches developed, I further refined the story outline and created high-fidelity draft data visualizations for critical elements of my narrative. The Shorthand story draft is accessible here:
@@ -39,6 +43,9 @@ The target audience includes:
 ## Interview Findings
 
 ### Thoughts After Interview
+After receiving feedback from my professor and TA, I shifted the narrative from AI adoption for business to AI's energy consumption. This helped make the story more focused and relevant to energy concerns. Additionally, two interviewees mentioned that the story was too data-heavy and structured like a report, lacking a compelling narrative. Based on this, I reworked the storytelling approach to create a clearer structure and integrate data more organically into the story instead of presenting it in a rigid report-like format.
+
+Users also expressed a preference for a layout where text and visualizations are presented side by side. They found the current Shorthand draft too data-heavy and suggested making the narrative more engaging and less overwhelming. In Part III, I will focus on implementing a side-by-side layout, reducing data density, and enhancing the narrative flow to create a more balanced and engaging user experience.
 After receiving feedback from my professor and TA, I shifted the narrative from AI adoption for business to AI's energy consumption. This helped make the story more focused and relevant to energy concerns. Additionally, two interviewees mentioned that the story was too data-heavy and structured like a report, lacking a compelling narrative. Based on this, I reworked the storytelling approach to create a clearer structure and integrate data more organically into the story instead of presenting it in a rigid report-like format.
 
 ## Interview Findings
@@ -94,6 +101,3 @@ I used OpenAI's ChatGPT to:
 - Assist in summarizing user research findings.
 
 All visualizations were created using **Datawrapper**, and the storytelling was built using **Shorthand**.
-
-
-
