@@ -103,7 +103,6 @@ For **Part III**, I will focus on:
 | Text formatting was visually overwhelming | Simplify text blocks, use  less bullet points, more callouts, and more whitespace to improve readability. |
 | Users prefer side-by-side layout | Implement a side-by-side layout in Shorthand to pair text with visuals for better engagement. |
 | Scroll effects felt too fast/overwhelming | Slow down transitions and provide visual cues to guide the reader through interactions. |
-| Complex charts were hard to interpret | Simplify labels, legends, and break down complex charts into smaller, more digestible parts. |
 | Need for clearer data highlights | Use callouts, bold text, and cleaner layouts to emphasize key data points. |
 | Missing citations on visualizations | Add proper citations for all data visualizations to improve credibility. |
 
