@@ -6,9 +6,9 @@ After the initial round of feedback from my professor and TA, I made a significa
 
 # Wireframes / Storyboards
 
-Using the sketches developed, I further refined the story outline and created high-fidelity draft data visualizations for critical elements of my narrative. The Shorthand story draft is accessible here:
+Using the sketches developed in part I, I further refined the story outline and created high-fidelity draft data visualizations for critical elements of my narrative. The Shorthand story draft is accessible here:
 
-<script src="https://carnegiemellon.shorthandstories.com/the-hidden-cost-of-ai-is-ai-really-an-energy-monster/embed.js"></script>
+[View my Shorthand Story](https://carnegiemellon.shorthandstories.com/the-hidden-cost-of-ai-is-ai-really-an-energy-monster)
 
 The story uses a scroll-driven structure with interactive visualizations, guiding the reader through AI's energy footprint.
 
