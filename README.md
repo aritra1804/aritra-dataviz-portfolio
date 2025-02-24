@@ -45,10 +45,49 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 This project focuses on redesigning a data visualization that originally used a scatter plot to explore the relationship between median age at first marriage and population density per square mile across U.S. states. While the original visualization aimed to identify correlations, it failed to effectively showcase trends over time, making it difficult for viewers to interpret historical changes in marriage age.
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+
+### **Project Title**  
+*The Hidden Cost of AI: Is AI Really an Energy Monster?*
+
+---
+
+### **Overview**  
+This data-driven story explores the often-overlooked **energy footprint of artificial intelligence (AI)**. With AI systems like **ChatGPT** and **Google AI** becoming integral to daily life, the project investigates whether AI's energy consumption is truly as alarming as headlines suggest or if the concerns are overblown.
+
+The narrative takes readers on a journey to uncover:  
+- **How much energy AI actually consumes** compared to other household and industrial uses.  
+- The **local impacts** on energy grids in AI hubs like **Virginia** and **Texas**.  
+- **Future projections** of AI's energy demand and how efficiency improvements are helping.  
+- Practical **comparisons** (*e.g., ChatGPT queries vs. household appliance energy use*) to contextualize AI's energy footprint.
+
+---
+
+### **Key Themes:**  
+- **Myth-busting:** Challenging exaggerated claims about AI being an *"energy monster."*  
+- **Efficiency Evolution:** Highlighting how AI systems are becoming more energy-efficient over time.  
+- **Local vs. Global Impact:** Demonstrating how **local grids** feel the strain more than global energy systems.  
+- **Call to Action:** Encouraging readers to consider **personal energy choices** and advocate for **sustainable AI development**.
+
+
+---
+
+### **Audience:**  
+- 🧑‍💻 **General Public:** To raise awareness about AI’s energy footprint.  
+- 🏛 **Industry Leaders & Policymakers:** To inform decisions on sustainable energy use and AI development.
+
+---
+
+### **Goal:**  
+To **educate**, **debunk myths**, and **empower readers** to make informed decisions about energy consumption in the age of AI, all while fostering discussions around the **sustainability** of emerging technologies.  
+
+Below are the links to each of the parts of the final project.
+
+
+- [Part I](final-project-part-one)
+
+- [Part II](final-project-part-two)
+
+- [Part III](final-project-part-three)
 
 ---
 
