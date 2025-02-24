@@ -82,10 +82,13 @@ All visualizations were finalized using **Datawrapper**, and the storytelling wa
 
 This project was both challenging and rewarding. One of the most exciting parts was **translating complex data into relatable stories**, like comparing ChatGPT energy use to household appliances — it made abstract data tangible.
 
-If I had more time, I would have explored **more interactive visualizations**, like **dynamic maps** showing local grid strain in real-time. I also would have loved to conduct **more user interviews** to refine the story further.
+The story itself went through a major evolution — I started with a **broad topic** on **AI adoption for business**, but it lacked focus. I then shifted to **AI’s energy consumption**, which provided a clearer direction but was initially **too data-heavy** and felt more like a report. Through feedback and iterations, I transformed it into a **narrative-driven story**, making the data more approachable and engaging.
+
+If I had more time, I would have explored **more interactive visualizations**, like **line graphs showing trends over time with scroll effects** to make the data feel more dynamic and immersive. I also would have loved to conduct **more user interviews** to refine the story further.
 
 What I’m most proud of is how the story evolved — starting as a data-heavy report and transforming into an **engaging narrative** that blends data, storytelling, and actionable insights. It taught me the power of **designing for the audience**, and how the smallest design tweaks can make a big difference in readability and engagement.
 
 Overall, I’m excited about how it turned out and grateful for the feedback that guided me along the way!
 
 ---
+
