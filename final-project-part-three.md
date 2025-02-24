@@ -8,17 +8,20 @@
 
 # Changes Made Since Part II
 
-Since completing **Part II**, I made several significant changes to improve the storytelling, design, and overall user experience of my data story:
+Since completing **Part II**, I made several key changes to improve the flow, design, and overall storytelling of my data story:
 
-- **Simplified Text Formatting:** Based on TA and interviewee feedback, I reduced dense text blocks and made the narrative more concise and engaging. This included using **callouts, bullet points, and more white space** to improve readability.
-  
-- **Implemented Side-by-Side Layouts:** To enhance the flow of information, I incorporated **side-by-side layouts** in Shorthand, pairing **text and visuals** to allow readers to better understand complex data without feeling overwhelmed.
+- **Removed Chapters for Better Flow:** Based on feedback, I removed the rigid chapter structure to create a **smoother, continuous narrative**. This made the story feel less like a report and more like an engaging, data-driven journey.
 
-- **Refined Data Visualizations:** I **simplified charts and graphs**, ensuring that key points stood out more clearly. I also added **citations** to all visualizations for credibility.
+- **Strengthened the Call to Action (CTA):** I revised the final **CTA** to make it more **direct, actionable, and empowering**. The updated CTA focuses on encouraging readers to reflect on their energy usage while highlighting practical steps they can take.
 
-- **Enhanced Accessibility:** I adjusted **background brightness** and contrast to improve text readability, addressing specific feedback regarding visual strain.
+- **Improved Formatting and Design:**  
+  - I simplified the **text formatting** by reducing dense paragraphs, increasing white space, and using **callouts** for key data points.  
+  - I adjusted **background colors and contrasts** to improve readability and reduce visual strain, especially in areas where users noted issues.  
+  - Visual elements were aligned better with the text, using a **side-by-side layout** to make the story more cohesive and easier to follow.
 
-- **Stronger Call to Action:** The final slide now includes a more **engaging and actionable call to action**, encouraging readers to think critically about AI’s energy impact and what they can do.
+- **Refined Data Visualizations:** I made visualizations **simpler and clearer**, with enhanced annotations and **proper citations** to strengthen credibility.
+
+These changes aimed to make the data story more **engaging, reader-friendly**, and aligned with audience expectations.
 
 ---
 
