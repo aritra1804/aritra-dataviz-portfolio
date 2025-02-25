@@ -32,17 +32,12 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-#### 1. Data viz redesign
+# Examples [Data viz examples](critique-by-design)
+Below is an example of one of the visualizations I created in the course. It talks about the Urban Mobilility Readiness Index in the year 2020 for various countries.
+👉 [Click here to view the other visualizations](dataviz-examples.md)
+#### 1. Urban Readiness Index 2020
 <div style="min-height:660px" id="datawrapper-vis-M9WpL"><img src="https://datawrapper.dwcdn.net/M9WpL/full.png" alt="" /></div> 
 
-
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-This project focuses on redesigning a data visualization that originally used a scatter plot to explore the relationship between median age at first marriage and population density per square mile across U.S. states. While the original visualization aimed to identify correlations, it failed to effectively showcase trends over time, making it difficult for viewers to interpret historical changes in marriage age.
 
 ## Final project
 
