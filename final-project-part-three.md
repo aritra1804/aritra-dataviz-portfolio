@@ -4,7 +4,6 @@
 
 [View My Final Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/the-hidden-cost-of-ai-is-ai-really-an-energy-monster)
 
----
 
 # Changes Made Since Part II
 
