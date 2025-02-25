@@ -35,7 +35,7 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 #### 1. Data viz redesign
-<div style="min-height:660px" id="datawrapper-vis-M9WpL"><img src="https://datawrapper.dwcdn.net/M9WpL/full.png" alt="" /></noscript></div> 
+<div style="min-height:660px" id="datawrapper-vis-M9WpL"><img src="https://datawrapper.dwcdn.net/M9WpL/full.png" alt="" />
 
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
