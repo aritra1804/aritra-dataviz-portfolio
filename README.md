@@ -63,7 +63,7 @@ The narrative takes readers on a journey to uncover:
 ---
 
 ### **Key Themes:**  
-- **Myth-busting:** Challenging exaggerated claims about AI being an *"energy monster."*  
+- **Myth-busting:** Challenging exaggerated claims about AI being an "energy monster."  
 - **Efficiency Evolution:** Highlighting how AI systems are becoming more energy-efficient over time.  
 - **Local vs. Global Impact:** Demonstrating how **local grids** feel the strain more than global energy systems.  
 - **Call to Action:** Encouraging readers to consider **personal energy choices** and advocate for **sustainable AI development**.
@@ -72,8 +72,8 @@ The narrative takes readers on a journey to uncover:
 ---
 
 ### **Audience:**  
-- 🧑‍💻 **General Public:** To raise awareness about AI’s energy footprint.  
-- 🏛 **Industry Leaders & Policymakers:** To inform decisions on sustainable energy use and AI development.
+- **General Public:** To raise awareness about AI’s energy footprint.  
+- **Industry Leaders & Policymakers:** To inform decisions on sustainable energy use and AI development.
 
 ---
 
