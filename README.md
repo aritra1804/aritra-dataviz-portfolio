@@ -4,7 +4,7 @@
 - This repository: https://github.com/aritra1804/aritra-dataviz-portfolio
 
 # Home
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Welcome to my public portfolio of data visualization work. Here, you’ll find examples, critiques, and final projects that showcase how I tell stories with data. This is where all my cool work will go. You should probably hire me. 
 
 # About me
 Hi, I’m Aritra Dutta – an aspiring Data Scientist and Machine Learning Enthusiast passionate about leveraging data to solve complex problems and drive innovation. With a strong foundation in Computer Science Engineering and Economics, and currently pursuing a Master’s in Information Systems Management at Carnegie Mellon University, I aim to merge technical expertise with business acumen to create impactful solutions.
